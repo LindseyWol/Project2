@@ -1,0 +1,1947 @@
+date,currency_code,name,local_price,dollar_ex,dollar_price
+4/1/00,ARS,Argentina,2.5,1,2.5
+4/1/00,AUD,Australia,2.59,1,2.59
+4/1/00,BRL,Brazil,2.95,1,2.95
+4/1/00,GBP,Britain,1.9,1,1.9
+4/1/00,CAD,Canada,2.85,1,2.85
+4/1/00,CLP,Chile,1260,514,2.45
+4/1/00,CNY,China,9.9,8,1.24
+4/1/00,CZK,Czech Republic,54.37,39,1.39
+4/1/00,DKK,Denmark,24.75,8,3.09
+4/1/00,EUR,Euro area,2.56,1,2.56
+4/1/00,HKD,Hong Kong,10.2,7,1.46
+4/1/00,HUF,Hungary,339,279,1.22
+4/1/00,IDR,Indonesia,14500,7945,1.83
+4/1/00,ILS,Israel,14.5,4,3.62
+4/1/00,JPY,Japan,294,106,2.77
+4/1/00,MYR,Malaysia,4.52,3,1.51
+4/1/00,MXN,Mexico,20.9,9,2.32
+4/1/00,NZD,New Zealand,3.4,2,1.7
+4/1/00,PLN,Poland,5.5,4,1.38
+4/1/00,RUB,Russia,39.5,28,1.41
+4/1/00,SGD,Singapore,3.2,1,3.2
+4/1/00,ZAR,South Africa,9,6,1.5
+4/1/00,KRW,South Korea,3000,1108,2.71
+4/1/00,SEK,Sweden,24,8,3
+4/1/00,CHF,Switzerland,5.9,1,5.9
+4/1/00,TWD,Taiwan,70,30,2.33
+4/1/00,THB,Thailand,55,38,1.45
+4/1/00,USD,United States,2.24,1,2.24
+4/1/01,ARS,Argentina,2.5,1,2.5
+4/1/01,AUD,Australia,3,1,3
+4/1/01,BRL,Brazil,3.6,2,1.8
+4/1/01,GBP,Britain,1.99,1,1.99
+4/1/01,CAD,Canada,3.33,1,3.33
+4/1/01,CLP,Chile,1260,601,2.1
+4/1/01,CNY,China,9.9,8,1.24
+4/1/01,CZK,Czech Republic,56,39,1.44
+4/1/01,DKK,Denmark,24.75,8,3.09
+4/1/01,EUR,Euro area,2.57,1,2.57
+4/1/01,HKD,Hong Kong,10.7,7,1.53
+4/1/01,HUF,Hungary,399,303,1.32
+4/1/01,IDR,Indonesia,14700,10855,1.35
+4/1/01,JPY,Japan,294,124,2.37
+4/1/01,MYR,Malaysia,4.52,3,1.51
+4/1/01,MXN,Mexico,21.9,9,2.43
+4/1/01,NZD,New Zealand,3.6,2,1.8
+4/1/01,PHP,Philippines,59,50,1.18
+4/1/01,PLN,Poland,5.9,4,1.48
+4/1/01,RUB,Russia,35,28,1.25
+4/1/01,SGD,Singapore,3.3,1,3.3
+4/1/01,ZAR,South Africa,9.7,8,1.21
+4/1/01,KRW,South Korea,3000,1325,2.26
+4/1/01,SEK,Sweden,24,10,2.4
+4/1/01,CHF,Switzerland,6.3,1,6.3
+4/1/01,TWD,Taiwan,70,32,2.19
+4/1/01,THB,Thailand,55,45,1.22
+4/1/01,USD,United States,2.24,1,2.24
+4/1/02,ARS,Argentina,2.5,3,0.83
+4/1/02,AUD,Australia,3,1,3
+4/1/02,BRL,Brazil,3.6,2,1.8
+4/1/02,GBP,Britain,1.99,1,1.99
+4/1/02,CAD,Canada,3.33,1,3.33
+4/1/02,CLP,Chile,1400,655,2.14
+4/1/02,CNY,China,10.5,8,1.31
+4/1/02,CZK,Czech Republic,56.28,34,1.66
+4/1/02,DKK,Denmark,24.75,8,3.09
+4/1/02,EUR,Euro area,2.67,1,2.67
+4/1/02,HKD,Hong Kong,11.2,8,1.4
+4/1/02,HUF,Hungary,459,272,1.69
+4/1/02,IDR,Indonesia,16000,9430,1.7
+4/1/02,ILS,Israel,12,4,3
+4/1/02,JPY,Japan,262,130,2.02
+4/1/02,MYR,Malaysia,5.04,3,1.68
+4/1/02,MXN,Mexico,21.9,9,2.43
+4/1/02,NZD,New Zealand,3.6,2,1.8
+4/1/02,NOK,Norway,35,8,4.38
+4/1/02,PEN,Peru,8.5,3,2.83
+4/1/02,PHP,Philippines,65,51,1.27
+4/1/02,PLN,Poland,5.9,4,1.48
+4/1/02,RUB,Russia,39,31,1.26
+4/1/02,SGD,Singapore,3.3,1,3.3
+4/1/02,ZAR,South Africa,9.7,10,0.97
+4/1/02,KRW,South Korea,3100,1304,2.38
+4/1/02,SEK,Sweden,26,10,2.6
+4/1/02,CHF,Switzerland,6.3,1,6.3
+4/1/02,TWD,Taiwan,70,34,2.06
+4/1/02,THB,Thailand,55,43,1.28
+4/1/02,TRY,Turkey,4000000,1324500,3.02
+4/1/02,USD,United States,2.35,1,2.35
+4/1/02,VEF,Venezuela,2500,857,2.92
+4/1/03,ARS,Argentina,4.1,2,2.05
+4/1/03,AUD,Australia,3,1,3
+4/1/03,BRL,Brazil,4.55,3,1.52
+4/1/03,GBP,Britain,1.99,1,1.99
+4/1/03,CAD,Canada,3.2,1,3.2
+4/1/03,CLP,Chile,1400,716,1.96
+4/1/03,CNY,China,9.9,8,1.24
+4/1/03,CZK,Czech Republic,56.57,28,2.02
+4/1/03,DKK,Denmark,27.75,6,4.62
+4/1/03,EGP,Egypt,8,5,1.6
+4/1/03,EUR,Euro area,2.71,1,2.71
+4/1/03,HKD,Hong Kong,11.5,7,1.64
+4/1/03,HUF,Hungary,490,224,2.19
+4/1/03,IDR,Indonesia,16100,8740,1.84
+4/1/03,JPY,Japan,262,120,2.18
+4/1/03,MYR,Malaysia,5.04,3,1.68
+4/1/03,MXN,Mexico,23,10,2.3
+4/1/03,NZD,New Zealand,3.95,1,3.95
+4/1/03,PEN,Peru,7.9,3,2.63
+4/1/03,PHP,Philippines,65,52,1.25
+4/1/03,PLN,Poland,6.3,3,2.1
+4/1/03,RUB,Russia,41,31,1.32
+4/1/03,SGD,Singapore,3.3,1,3.3
+4/1/03,ZAR,South Africa,13.95,7,1.99
+4/1/03,KRW,South Korea,3300,1220,2.7
+4/1/03,SEK,Sweden,30,8,3.75
+4/1/03,CHF,Switzerland,6.3,1,6.3
+4/1/03,TWD,Taiwan,70,34,2.06
+4/1/03,THB,Thailand,59,42,1.4
+4/1/03,TRY,Turkey,3750000,1600500,2.34
+4/1/03,USD,United States,2.46,1,2.46
+4/1/03,VEF,Venezuela,3700,1598,2.32
+5/1/04,ARS,Argentina,4.36,2,2.18
+5/1/04,AUD,Australia,3.25,1,3.25
+5/1/04,BRL,Brazil,5.4,3,1.8
+5/1/04,GBP,Britain,1.88,1,1.88
+5/1/04,CAD,Canada,3.19,1,3.19
+5/1/04,CLP,Chile,1400,641,2.18
+5/1/04,CNY,China,10.4,8,1.3
+5/1/04,COP,Colombia,6500,2769,2.35
+5/1/04,CRC,Costa Rica,1130,433,2.61
+5/1/04,CZK,Czech Republic,56.42,26,2.17
+5/1/04,DKK,Denmark,27.75,6,4.62
+5/1/04,EGP,Egypt,10,6,1.67
+5/1/04,EUR,Euro area,2.74,1,2.74
+5/1/04,HKD,Hong Kong,12,7,1.71
+5/1/04,HUF,Hungary,530,211,2.51
+5/1/04,IDR,Indonesia,16100,9120,1.77
+5/1/04,JPY,Japan,262,113,2.32
+5/1/04,MYR,Malaysia,5.04,3,1.68
+5/1/04,MXN,Mexico,24,11,2.18
+5/1/04,NZD,New Zealand,4.35,1,4.35
+5/1/04,NOK,Norway,35.5,6,5.92
+5/1/04,PKR,Pakistan,110,57,1.93
+5/1/04,PEN,Peru,8.99,3,3
+5/1/04,PHP,Philippines,69,55,1.25
+5/1/04,PLN,Poland,6.3,3,2.1
+5/1/04,RUB,Russia,42,29,1.45
+5/1/04,SAR,Saudi Arabia,2.4,3,0.8
+5/1/04,SGD,Singapore,3.3,1,3.3
+5/1/04,ZAR,South Africa,12.4,6,2.07
+5/1/04,KRW,South Korea,3200,1177,2.72
+5/1/04,LKR,Sri Lanka,140,99,1.41
+5/1/04,SEK,Sweden,30,7,4.29
+5/1/04,CHF,Switzerland,6.3,1,6.3
+5/1/04,TWD,Taiwan,75,33,2.27
+5/1/04,THB,Thailand,59,40,1.48
+5/1/04,TRY,Turkey,3950000,1531000,2.58
+5/1/04,UAH,Ukraine,7.25,5,1.45
+5/1/04,USD,United States,2.47,1,2.47
+5/1/04,UYU,Uruguay,29.8,29,1.03
+5/1/04,VEF,Venezuela,4400,2977,1.48
+6/1/05,ARS,Argentina,4.75,2,2.38
+6/1/05,AUD,Australia,3.25,1,3.25
+6/1/05,BRL,Brazil,5.9,2,2.95
+6/1/05,GBP,Britain,1.88,1,1.88
+6/1/05,CAD,Canada,3.28,1,3.28
+6/1/05,CLP,Chile,1500,592,2.53
+6/1/05,CNY,China,10.5,8,1.31
+6/1/05,COP,Colombia,6500,2327,2.79
+6/1/05,CRC,Costa Rica,1130,475,2.38
+6/1/05,CZK,Czech Republic,56.42,24,2.35
+6/1/05,DKK,Denmark,27.75,6,4.62
+6/1/05,EGP,Egypt,9,5,1.8
+6/1/05,EUR,Euro area,2.92,1,2.92
+6/1/05,HKD,Hong Kong,12,7,1.71
+6/1/05,HUF,Hungary,530,203,2.61
+6/1/05,IDR,Indonesia,14600,9545,1.53
+6/1/05,JPY,Japan,250,106,2.36
+6/1/05,MYR,Malaysia,5.25,3,1.75
+6/1/05,MXN,Mexico,28,10,2.8
+6/1/05,NZD,New Zealand,4.45,1,4.45
+6/1/05,NOK,Norway,39,6,6.5
+6/1/05,PKR,Pakistan,130,59,2.2
+6/1/05,PEN,Peru,8.99,3,3
+6/1/05,PHP,Philippines,80,54,1.48
+6/1/05,PLN,Poland,6.5,3,2.17
+6/1/05,RUB,Russia,42,28,1.5
+6/1/05,SAR,Saudi Arabia,9,3,3
+6/1/05,SGD,Singapore,3.6,1,3.6
+6/1/05,ZAR,South Africa,13.95,6,2.32
+6/1/05,KRW,South Korea,2500,1005,2.49
+6/1/05,LKR,Sri Lanka,175,99,1.77
+6/1/05,SEK,Sweden,31,7,4.43
+6/1/05,CHF,Switzerland,6.3,1,6.3
+6/1/05,TWD,Taiwan,75,31,2.42
+6/1/05,THB,Thailand,60,40,1.5
+6/1/05,TRY,Turkey,4,1,4
+6/1/05,AED,UAE,9,3,3
+6/1/05,UAH,Ukraine,7.25,5,1.45
+6/1/05,USD,United States,2.58,1,2.58
+6/1/05,UYU,Uruguay,44,24,1.83
+6/1/05,VEF,Venezuela,5600,2629,2.13
+1/1/06,ARS,Argentina,4.75,3,1.58
+1/1/06,AUD,Australia,3.25,1,3.25
+1/1/06,BRL,Brazil,6.2,2,3.1
+1/1/06,GBP,Britain,1.88,1,1.88
+1/1/06,CAD,Canada,3.52,1,3.52
+1/1/06,CLP,Chile,1560,522,2.99
+1/1/06,CNY,China,10.5,8,1.31
+1/1/06,CZK,Czech Republic,62,23,2.7
+1/1/06,DKK,Denmark,27.75,6,4.62
+1/1/06,EGP,Egypt,9.25,5,1.85
+1/1/06,EUR,Euro area,2.91,1,2.91
+1/1/06,HKD,Hong Kong,12,7,1.71
+1/1/06,HUF,Hungary,560,206,2.72
+1/1/06,IDR,Indonesia,14600,9460,1.54
+1/1/06,JPY,Japan,250,114,2.19
+1/1/06,MYR,Malaysia,5.5,3,1.83
+1/1/06,MXN,Mexico,28,10,2.8
+1/1/06,NZD,New Zealand,4.45,1,4.45
+1/1/06,PEN,Peru,9.5,3,3.17
+1/1/06,PHP,Philippines,82,52,1.58
+1/1/06,PLN,Poland,6.5,3,2.17
+1/1/06,RUB,Russia,46,28,1.64
+1/1/06,SGD,Singapore,3.6,1,3.6
+1/1/06,ZAR,South Africa,13.95,6,2.32
+1/1/06,KRW,South Korea,2500,977,2.56
+1/1/06,SEK,Sweden,33,7,4.71
+1/1/06,CHF,Switzerland,6.3,1,6.3
+1/1/06,TWD,Taiwan,75,31,2.42
+1/1/06,THB,Thailand,60,39,1.54
+1/1/06,TRY,Turkey,4.1,1,4.1
+1/1/06,USD,United States,2.67,1,2.67
+1/1/06,VEF,Venezuela,5900,2615,2.26
+5/1/06,ARS,Argentina,7,3,2.33
+5/1/06,AUD,Australia,3.25,1,3.25
+5/1/06,BRL,Brazil,6.4,2,3.2
+5/1/06,GBP,Britain,1.94,1,1.94
+5/1/06,CAD,Canada,3.52,1,3.52
+5/1/06,CLP,Chile,1560,529,2.95
+5/1/06,CNY,China,10.5,8,1.31
+5/1/06,COP,Colombia,6500,2503,2.6
+5/1/06,CRC,Costa Rica,1130,509,2.22
+5/1/06,CZK,Czech Republic,59.05,22,2.68
+5/1/06,DKK,Denmark,27.75,5,5.55
+5/1/06,EGP,Egypt,9.5,5,1.9
+5/1/06,EUR,Euro area,2.939573529,1,2.94
+5/1/06,HKD,Hong Kong,12,7,1.71
+5/1/06,HUF,Hungary,560,206,2.72
+5/1/06,IDR,Indonesia,14600,9325,1.57
+5/1/06,JPY,Japan,250,112,2.23
+5/1/06,MYR,Malaysia,5.5,3,1.83
+5/1/06,MXN,Mexico,29,11,2.64
+5/1/06,NZD,New Zealand,4.45,1,4.45
+5/1/06,NOK,Norway,43,6,7.17
+5/1/06,PKR,Pakistan,130,60,2.17
+5/1/06,PEN,Peru,9.5,3,3.17
+5/1/06,PHP,Philippines,85,52,1.63
+5/1/06,PLN,Poland,6.5,3,2.17
+5/1/06,RUB,Russia,48,27,1.78
+5/1/06,SAR,Saudi Arabia,9,3,3
+5/1/06,SGD,Singapore,3.6,1,3.6
+5/1/06,ZAR,South Africa,13.95,6,2.32
+5/1/06,KRW,South Korea,2500,952,2.63
+5/1/06,LKR,Sri Lanka,190,102,1.86
+5/1/06,SEK,Sweden,33,7,4.71
+5/1/06,CHF,Switzerland,6.3,1,6.3
+5/1/06,TWD,Taiwan,75,32,2.34
+5/1/06,THB,Thailand,60,38,1.58
+5/1/06,TRY,Turkey,4.2,1,4.2
+5/1/06,AED,UAE,9,3,3
+5/1/06,UAH,Ukraine,8.5,5,1.7
+5/1/06,USD,United States,2.78,1,2.78
+5/1/06,UYU,Uruguay,42.28,23,1.84
+5/1/06,VEF,Venezuela,5701.25,2519,2.26
+1/1/07,ARS,Argentina,8.25,3,2.75
+1/1/07,AUD,Australia,3.45,1,3.45
+1/1/07,BRL,Brazil,6.4,2,3.2
+1/1/07,GBP,Britain,1.94,1,1.94
+1/1/07,CAD,Canada,3.63,1,3.63
+1/1/07,CLP,Chile,1670,540,3.09
+1/1/07,CNY,China,11,7,1.57
+1/1/07,COP,Colombia,6900,2239,3.08
+1/1/07,CRC,Costa Rica,1130,509,2.22
+1/1/07,CZK,Czech Republic,52.1,21,2.48
+1/1/07,DKK,Denmark,27.75,5,5.55
+1/1/07,EGP,Egypt,9.09,5,1.82
+1/1/07,EUR,Euro area,2.94,1,2.94
+1/1/07,HKD,Hong Kong,12,7,1.71
+1/1/07,HUF,Hungary,590,194,3.04
+1/1/07,IDR,Indonesia,15900,9090,1.75
+1/1/07,JPY,Japan,280,121,2.31
+1/1/07,MYR,Malaysia,5.5,3,1.83
+1/1/07,MXN,Mexico,29,10,2.9
+1/1/07,NZD,New Zealand,4.6,1,4.6
+1/1/07,NOK,Norway,41.5,6,6.92
+1/1/07,PKR,Pakistan,140,60,2.33
+1/1/07,PEN,Peru,9.5,3,3.17
+1/1/07,PHP,Philippines,85,49,1.73
+1/1/07,PLN,Poland,6.9,2,3.45
+1/1/07,RUB,Russia,49,26,1.88
+1/1/07,SAR,Saudi Arabia,9,3,3
+1/1/07,SGD,Singapore,3.6,1,3.6
+1/1/07,ZAR,South Africa,15.5,7,2.21
+1/1/07,KRW,South Korea,2900,940,3.09
+1/1/07,LKR,Sri Lanka,190,102,1.86
+1/1/07,SEK,Sweden,32,7,4.57
+1/1/07,CHF,Switzerland,6.3,1,6.3
+1/1/07,TWD,Taiwan,75,32,2.34
+1/1/07,THB,Thailand,62,35,1.77
+1/1/07,TRY,Turkey,4.55,1,4.55
+1/1/07,AED,UAE,10,3,3.33
+1/1/07,UAH,Ukraine,9,5,1.8
+1/1/07,USD,United States,2.89,1,2.89
+1/1/07,UYU,Uruguay,55,23,2.39
+1/1/07,VEF,Venezuela,6800,4125,1.65
+6/1/07,ARS,Argentina,8.25,3,2.75
+6/1/07,AUD,Australia,3.45,1,3.45
+6/1/07,BRL,Brazil,6.9,1,6.9
+6/1/07,GBP,Britain,1.99,1,1.99
+6/1/07,CAD,Canada,3.88,1,3.88
+6/1/07,CLP,Chile,1565,526,2.98
+6/1/07,CNY,China,11,7,1.57
+6/1/07,COP,Colombia,6900,1956,3.53
+6/1/07,CRC,Costa Rica,1130,518,2.18
+6/1/07,CZK,Czech Republic,52.9,21,2.52
+6/1/07,DKK,Denmark,27.75,5,5.55
+6/1/07,EGP,Egypt,9.54,5,1.91
+6/1/07,EUR,Euro area,3.057482443,1,3.06
+6/1/07,HKD,Hong Kong,12,7,1.71
+6/1/07,HUF,Hungary,600,180,3.33
+6/1/07,IDR,Indonesia,15900,9015,1.76
+6/1/07,JPY,Japan,280,122,2.3
+6/1/07,MYR,Malaysia,5.5,3,1.83
+6/1/07,MXN,Mexico,29,10,2.9
+6/1/07,NZD,New Zealand,4.6,1,4.6
+6/1/07,NOK,Norway,40,5,8
+6/1/07,PKR,Pakistan,140,60,2.33
+6/1/07,PEN,Peru,9.5,3,3.17
+6/1/07,PHP,Philippines,85,45,1.89
+6/1/07,PLN,Poland,6.9,2,3.45
+6/1/07,RUB,Russia,52,25,2.08
+6/1/07,SAR,Saudi Arabia,9,3,3
+6/1/07,SGD,Singapore,3.95,1,3.95
+6/1/07,ZAR,South Africa,15.5,6,2.58
+6/1/07,KRW,South Korea,2900,922,3.15
+6/1/07,LKR,Sri Lanka,210,111,1.89
+6/1/07,SEK,Sweden,33,6,5.5
+6/1/07,CHF,Switzerland,6.3,1,6.3
+6/1/07,TWD,Taiwan,75,32,2.34
+6/1/07,THB,Thailand,62,34,1.82
+6/1/07,TRY,Turkey,4.75,1,4.75
+6/1/07,AED,UAE,10,3,3.33
+6/1/07,UAH,Ukraine,9.25,5,1.85
+6/1/07,USD,United States,3,1,3
+6/1/07,UYU,Uruguay,62,23,2.7
+6/1/07,VEF,Venezuela,7400,2147,3.45
+6/1/08,ARS,Argentina,11,3,3.67
+6/1/08,AUD,Australia,3.45,1,3.45
+6/1/08,BRL,Brazil,7.5,1,7.5
+6/1/08,GBP,Britain,2.29,1,2.29
+6/1/08,CAD,Canada,4.09,1,4.09
+6/1/08,CLP,Chile,1550,494,3.14
+6/1/08,CNY,China,12.5,6,2.08
+6/1/08,COP,Colombia,7000,1798,3.89
+6/1/08,CRC,Costa Rica,1800,551,3.27
+6/1/08,CZK,Czech Republic,66.08,14,4.72
+6/1/08,DKK,Denmark,28,4,7
+6/1/08,EGP,Egypt,13,5,2.6
+6/1/08,EUR,Euro area,3.36856,1,3.37
+6/1/08,HKD,Hong Kong,13.3,7,1.9
+6/1/08,HUF,Hungary,670,144,4.65
+6/1/08,IDR,Indonesia,18700,9152,2.04
+6/1/08,JPY,Japan,280,106,2.64
+6/1/08,MYR,Malaysia,5.5,3,1.83
+6/1/08,MXN,Mexico,32,10,3.2
+6/1/08,NZD,New Zealand,4.9,1,4.9
+6/1/08,NOK,Norway,40,5,8
+6/1/08,PKR,Pakistan,140,70,2
+6/1/08,PEN,Peru,9.5,2,4.75
+6/1/08,PHP,Philippines,87,44,1.98
+6/1/08,PLN,Poland,7,2,3.5
+6/1/08,RUB,Russia,59,23,2.57
+6/1/08,SAR,Saudi Arabia,10,3,3.33
+6/1/08,SGD,Singapore,3.95,1,3.95
+6/1/08,ZAR,South Africa,16.95,7,2.42
+6/1/08,KRW,South Korea,3200,1018,3.14
+6/1/08,LKR,Sri Lanka,210,107,1.96
+6/1/08,SEK,Sweden,38,5,7.6
+6/1/08,CHF,Switzerland,6.5,1,6.5
+6/1/08,TWD,Taiwan,75,30,2.5
+6/1/08,THB,Thailand,62,33,1.88
+6/1/08,TRY,Turkey,5.15,1,5.15
+6/1/08,AED,UAE,10,3,3.33
+6/1/08,UAH,Ukraine,11,4,2.75
+6/1/08,USD,United States,3.21,1,3.21
+6/1/08,UYU,Uruguay,61,19,3.21
+7/1/09,ARS,Argentina,11.5,3,3.83
+7/1/09,AUD,Australia,4.34,1,4.34
+7/1/09,BRL,Brazil,8.03,1,8.03
+7/1/09,GBP,Britain,2.29,1,2.29
+7/1/09,CAD,Canada,3.89,1,3.89
+7/1/09,CLP,Chile,1750,548,3.19
+7/1/09,CNY,China,12.5,6,2.08
+7/1/09,COP,Colombia,7000,2095,3.34
+7/1/09,CRC,Costa Rica,2000,582,3.44
+7/1/09,CZK,Czech Republic,67.92,18,3.77
+7/1/09,DKK,Denmark,29.5,5,5.9
+7/1/09,EGP,Egypt,13,5,2.6
+7/1/09,EUR,Euro area,3.31,1,3.31
+7/1/09,HKD,Hong Kong,13.3,7,1.9
+7/1/09,HUF,Hungary,720,199,3.62
+7/1/09,IDR,Indonesia,20900,10200,2.05
+7/1/09,ILS,Israel,15,3,5
+7/1/09,JPY,Japan,320,92,3.48
+7/1/09,MYR,Malaysia,6.77,3,2.26
+7/1/09,MXN,Mexico,33,13,2.54
+7/1/09,NZD,New Zealand,4.9,1,4.9
+7/1/09,NOK,Norway,40,6,6.67
+7/1/09,PKR,Pakistan,190,82,2.32
+7/1/09,PEN,Peru,8.056,3,2.69
+7/1/09,PHP,Philippines,99.39,48,2.07
+7/1/09,PLN,Poland,7.6,3,2.53
+7/1/09,RUB,Russia,67,32,2.09
+7/1/09,SAR,Saudi Arabia,11,3,3.67
+7/1/09,SGD,Singapore,4.22,1,4.22
+7/1/09,ZAR,South Africa,17.95,8,2.24
+7/1/09,KRW,South Korea,3400,1314,2.59
+7/1/09,LKR,Sri Lanka,210,114,1.84
+7/1/09,SEK,Sweden,39,7,5.57
+7/1/09,CHF,Switzerland,6.5,1,6.5
+7/1/09,TWD,Taiwan,75,33,2.27
+7/1/09,THB,Thailand,64.49,34,1.9
+7/1/09,TRY,Turkey,5.65,1,5.65
+7/1/09,AED,UAE,10,3,3.33
+7/1/09,UAH,Ukraine,14,7,2
+7/1/09,USD,United States,3.43,1,3.43
+7/1/09,UYU,Uruguay,61,23,2.65
+1/1/10,ARS,Argentina,7,3,2.33
+1/1/10,AUD,Australia,4.35,1,4.35
+1/1/10,BRL,Brazil,8.2,1,8.2
+1/1/10,GBP,Britain,2.29,1,2.29
+1/1/10,CAD,Canada,4.12,1,4.12
+1/1/10,CLP,Chile,1600,503,3.18
+1/1/10,CNY,China,12.5,6,2.08
+1/1/10,COP,Colombia,8200,2095,3.91
+1/1/10,CRC,Costa Rica,2050,582,3.52
+1/1/10,CZK,Czech Republic,67.64,18,3.76
+1/1/10,DKK,Denmark,30.94,5,6.19
+1/1/10,EGP,Egypt,13,5,2.6
+1/1/10,EUR,Euro area,3.36,1,3.36
+1/1/10,HKD,Hong Kong,14.8,7,2.11
+1/1/10,HUF,Hungary,720,186,3.87
+1/1/10,IDR,Indonesia,20900,9320,2.24
+1/1/10,ILS,Israel,14.9,3,4.97
+1/1/10,JPY,Japan,320,91,3.52
+1/1/10,MYR,Malaysia,7.05,3,2.35
+1/1/10,MXN,Mexico,32,12,2.67
+1/1/10,NZD,New Zealand,4.9,1,4.9
+1/1/10,NOK,Norway,40,5,8
+1/1/10,PKR,Pakistan,200,82,2.44
+1/1/10,PEN,Peru,8.056,2,4.03
+1/1/10,PHP,Philippines,101.52,45,2.26
+1/1/10,PLN,Poland,8.1,2,4.05
+1/1/10,RUB,Russia,70,29,2.41
+1/1/10,SAR,Saudi Arabia,10,3,3.33
+1/1/10,SGD,Singapore,4.45,1,4.45
+1/1/10,ZAR,South Africa,17.95,7,2.56
+1/1/10,KRW,South Korea,3400,1140,2.98
+1/1/10,LKR,Sri Lanka,210,114,1.84
+1/1/10,SEK,Sweden,39,7,5.57
+1/1/10,CHF,Switzerland,6.5,1,6.5
+1/1/10,TWD,Taiwan,75,31,2.42
+1/1/10,THB,Thailand,70,33,2.12
+1/1/10,TRY,Turkey,5.65,1,5.65
+1/1/10,AED,UAE,11,3,3.67
+1/1/10,UAH,Ukraine,14,7,2
+1/1/10,USD,United States,3.43,1,3.43
+1/1/10,UYU,Uruguay,77,23,3.35
+7/1/10,ARS,Argentina,14,3,4.67
+7/1/10,AUD,Australia,4.35,1,4.35
+7/1/10,BRL,Brazil,8.71,1,8.71
+7/1/10,GBP,Britain,2.29,1,2.29
+7/1/10,CAD,Canada,4.17,1,4.17
+7/1/10,CLP,Chile,1750,523,3.35
+7/1/10,CNY,China,13.2,6,2.2
+7/1/10,COP,Colombia,8200,1868,4.39
+7/1/10,CRC,Costa Rica,2000,522,3.83
+7/1/10,CZK,Czech Republic,67.64,19,3.56
+7/1/10,DKK,Denmark,28.5,5,5.7
+7/1/10,EGP,Egypt,13,5,2.6
+7/1/10,EUR,Euro area,3.380031071,1,3.38
+7/1/10,HKD,Hong Kong,14.8,7,2.11
+7/1/10,HUF,Hungary,740,221,3.35
+7/1/10,IDR,Indonesia,22780,9063,2.51
+7/1/10,ILS,Israel,14.9,3,4.97
+7/1/10,JPY,Japan,320,87,3.68
+7/1/10,MYR,Malaysia,7.05,3,2.35
+7/1/10,MXN,Mexico,32,12,2.67
+7/1/10,NZD,New Zealand,5,1,5
+7/1/10,NOK,Norway,45,6,7.5
+7/1/10,PKR,Pakistan,210,85,2.47
+7/1/10,PEN,Peru,10,2,5
+7/1/10,PHP,Philippines,102,46,2.22
+7/1/10,PLN,Poland,8.3,3,2.77
+7/1/10,RUB,Russia,71,30,2.37
+7/1/10,SAR,Saudi Arabia,10,3,3.33
+7/1/10,SGD,Singapore,4.23,1,4.23
+7/1/10,ZAR,South Africa,18.45,7,2.64
+7/1/10,KRW,South Korea,3400,1204,2.82
+7/1/10,LKR,Sri Lanka,210,112,1.88
+7/1/10,SEK,Sweden,48.4,7,6.91
+7/1/10,CHF,Switzerland,6.5,1,6.5
+7/1/10,TWD,Taiwan,75,32,2.34
+7/1/10,THB,Thailand,70,32,2.19
+7/1/10,TRY,Turkey,5.95,1,5.95
+7/1/10,AED,UAE,11,3,3.67
+7/1/10,UAH,Ukraine,14.5,7,2.07
+7/1/10,USD,United States,3.53,1,3.53
+7/1/10,UYU,Uruguay,79,21,3.76
+7/1/11,ARS,Argentina,20,4,5
+7/1/11,AUD,Australia,4.56,1,4.56
+7/1/11,EUR,Austria,3.09,1,3.09
+7/1/11,EUR,Belgium,3.75,1,3.75
+7/1/11,BRL,Brazil,9.5,1,9.5
+7/1/11,GBP,Britain,2.39,1,2.39
+7/1/11,CAD,Canada,4.73,1,4.73
+7/1/11,CLP,Chile,1850,462,4
+7/1/11,CNY,China,14.65,6,2.44
+7/1/11,COP,Colombia,8400,1770,4.75
+7/1/11,CRC,Costa Rica,2050,504,4.07
+7/1/11,CZK,Czech Republic,69.32,17,4.08
+7/1/11,DKK,Denmark,28.5,5,5.7
+7/1/11,EGP,Egypt,14.09,5,2.82
+7/1/11,EUR,Estonia,2.2,1,2.2
+7/1/11,EUR,Euro area,3.437660401,1,3.44
+7/1/11,EUR,Finland,3.75,1,3.75
+7/1/11,EUR,France,3.5,1,3.5
+7/1/11,EUR,Germany,3.4,1,3.4
+7/1/11,EUR,Greece,3.26,1,3.26
+7/1/11,HKD,Hong Kong,15.1,7,2.16
+7/1/11,HUF,Hungary,760,188,4.04
+7/1/11,INR,India,84,44,1.91
+7/1/11,IDR,Indonesia,22534,8523,2.64
+7/1/11,EUR,Ireland,3.8,1,3.8
+7/1/11,ILS,Israel,15.9,3,5.3
+7/1/11,EUR,Italy,3.5,1,3.5
+7/1/11,JPY,Japan,320,78,4.1
+7/1/11,MYR,Malaysia,7.2,2,3.6
+7/1/11,MXN,Mexico,32,11,2.91
+7/1/11,EUR,Netherlands,3.25,1,3.25
+7/1/11,NZD,New Zealand,5.1,1,5.1
+7/1/11,NOK,Norway,45,5,9
+7/1/11,PKR,Pakistan,205.13,86,2.39
+7/1/11,PEN,Peru,10,2,5
+7/1/11,PHP,Philippines,118,42,2.81
+7/1/11,PLN,Poland,8.63,2,4.32
+7/1/11,EUR,Portugal,2.9,1,2.9
+7/1/11,RUB,Russia,75,27,2.78
+7/1/11,SAR,Saudi Arabia,10,3,3.33
+7/1/11,SGD,Singapore,4.41,1,4.41
+7/1/11,ZAR,South Africa,19.45,6,3.24
+7/1/11,KRW,South Korea,3700,1056,3.5
+7/1/11,EUR,Spain,3.5,1,3.5
+7/1/11,LKR,Sri Lanka,280,109,2.57
+7/1/11,SEK,Sweden,48.4,6,8.07
+7/1/11,CHF,Switzerland,6.5,1,6.5
+7/1/11,TWD,Taiwan,75,28,2.68
+7/1/11,THB,Thailand,70,29,2.41
+7/1/11,TRY,Turkey,6.5,1,6.5
+7/1/11,AED,UAE,12,3,4
+7/1/11,UAH,Ukraine,16.5,7,2.36
+7/1/11,USD,United States,3.64,1,3.64
+7/1/11,UYU,Uruguay,90,18,5
+7/1/11,VEF,Venezuela,28,4,7
+1/1/12,ARS,Argentina,20,4,5
+1/1/12,AUD,Australia,4.8,1,4.8
+1/1/12,EUR,Austria,3.09,1,3.09
+1/1/12,EUR,Belgium,3.7,1,3.7
+1/1/12,BRL,Brazil,10.25,1,10.25
+1/1/12,GBP,Britain,2.49,1,2.49
+1/1/12,CAD,Canada,4.73,1,4.73
+1/1/12,CLP,Chile,2050,506,4.05
+1/1/12,CNY,China,15.4,6,2.57
+1/1/12,COP,Colombia,8400,1852,4.54
+1/1/12,CRC,Costa Rica,2050,509,4.03
+1/1/12,CZK,Czech Republic,70.22,20,3.51
+1/1/12,DKK,Denmark,31.5,5,6.3
+1/1/12,EGP,Egypt,15.5,6,2.58
+1/1/12,EUR,Estonia,2.04,1,2.04
+1/1/12,EUR,Euro area,3.49245637,1,3.49
+1/1/12,EUR,Finland,3.75,1,3.75
+1/1/12,EUR,France,3.6,1,3.6
+1/1/12,EUR,Germany,3.53,1,3.53
+1/1/12,EUR,Greece,3.3,1,3.3
+1/1/12,HKD,Hong Kong,16.5,7,2.36
+1/1/12,HUF,Hungary,645,245,2.63
+1/1/12,INR,India,84,51,1.65
+1/1/12,IDR,Indonesia,22534,9160,2.46
+1/1/12,EUR,Ireland,3.8,1,3.8
+1/1/12,ILS,Israel,15.9,3,5.3
+1/1/12,EUR,Italy,3.5,1,3.5
+1/1/12,JPY,Japan,320,76,4.21
+1/1/12,MYR,Malaysia,7.35,3,2.45
+1/1/12,MXN,Mexico,37,13,2.85
+1/1/12,EUR,Netherlands,3.25,1,3.25
+1/1/12,NZD,New Zealand,5.1,1,5.1
+1/1/12,NOK,Norway,41,6,6.83
+1/1/12,PKR,Pakistan,260,90,2.89
+1/1/12,PEN,Peru,10,2,5
+1/1/12,PHP,Philippines,118,44,2.68
+1/1/12,PLN,Poland,9.1,3,3.03
+1/1/12,EUR,Portugal,2.9,1,2.9
+1/1/12,RUB,Russia,81,31,2.61
+1/1/12,SAR,Saudi Arabia,10,3,3.33
+1/1/12,SGD,Singapore,4.85,1,4.85
+1/1/12,ZAR,South Africa,19.95,8,2.49
+1/1/12,KRW,South Korea,3700,1158,3.2
+1/1/12,EUR,Spain,3.5,1,3.5
+1/1/12,LKR,Sri Lanka,290,113,2.57
+1/1/12,SEK,Sweden,41,6,6.83
+1/1/12,CHF,Switzerland,6.5,1,6.5
+1/1/12,TWD,Taiwan,75,29,2.59
+1/1/12,THB,Thailand,78,31,2.52
+1/1/12,TRY,Turkey,6.6,1,6.6
+1/1/12,AED,UAE,12,3,4
+1/1/12,UAH,Ukraine,17,8,2.12
+1/1/12,USD,United States,3.81,1,3.81
+1/1/12,UYU,Uruguay,90,19,4.74
+1/1/12,VEF,Venezuela,30,4,7.5
+7/1/12,ARS,Argentina,19,4,4.75
+7/1/12,AUD,Australia,4.56,1,4.56
+7/1/12,EUR,Austria,3.19,1,3.19
+7/1/12,EUR,Belgium,3.8,1,3.8
+7/1/12,BRL,Brazil,10.08,2,5.04
+7/1/12,GBP,Britain,2.69,1,2.69
+7/1/12,CAD,Canada,5.12,1,5.12
+7/1/12,CLP,Chile,2050,493,4.16
+7/1/12,CNY,China,15.65,6,2.61
+7/1/12,COP,Colombia,8600,1804,4.77
+7/1/12,CZK,Czech Republic,70.33,21,3.35
+7/1/12,DKK,Denmark,28.5,6,4.75
+7/1/12,EGP,Egypt,16,6,2.67
+7/1/12,EUR,Estonia,2.04,1,2.04
+7/1/12,EUR,Euro area,3.583482241,1,3.58
+7/1/12,EUR,Finland,3.75,1,3.75
+7/1/12,EUR,France,3.6,1,3.6
+7/1/12,EUR,Germany,3.64,1,3.64
+7/1/12,EUR,Greece,2.683,1,2.68
+7/1/12,HKD,Hong Kong,16.5,7,2.36
+7/1/12,HUF,Hungary,830,238,3.49
+7/1/12,INR,India,89,56,1.59
+7/1/12,IDR,Indonesia,24200,9482,2.55
+7/1/12,EUR,Ireland,3.49,1,3.49
+7/1/12,ILS,Israel,11.9,4,2.98
+7/1/12,EUR,Italy,3.6,1,3.6
+7/1/12,JPY,Japan,320,78,4.1
+7/1/12,MYR,Malaysia,7.4,3,2.47
+7/1/12,MXN,Mexico,37,13,2.85
+7/1/12,EUR,Netherlands,3.38,1,3.38
+7/1/12,NZD,New Zealand,5.1,1,5.1
+7/1/12,NOK,Norway,43,6,7.17
+7/1/12,PKR,Pakistan,285,94,3.03
+7/1/12,PHP,Philippines,118,42,2.81
+7/1/12,PLN,Poland,9.1,3,3.03
+7/1/12,EUR,Portugal,4.95,1,4.95
+7/1/12,RUB,Russia,75,32,2.34
+7/1/12,SAR,Saudi Arabia,10,3,3.33
+7/1/12,SGD,Singapore,4.4,1,4.4
+7/1/12,ZAR,South Africa,19.95,8,2.49
+7/1/12,KRW,South Korea,3700,1151,3.21
+7/1/12,EUR,Spain,3.5,1,3.5
+7/1/12,LKR,Sri Lanka,290,131,2.21
+7/1/12,SEK,Sweden,39.97301987,6,6.66
+7/1/12,CHF,Switzerland,6.5,1,6.5
+7/1/12,TWD,Taiwan,75,30,2.5
+7/1/12,THB,Thailand,82,31,2.65
+7/1/12,TRY,Turkey,8.25,1,8.25
+7/1/12,AED,UAE,12,3,4
+7/1/12,UAH,Ukraine,15,8,1.88
+7/1/12,USD,United States,3.96,1,3.96
+7/1/12,UYU,Uruguay,99,21,4.71
+7/1/12,VEF,Venezuela,34,4,8.5
+1/1/13,ARS,Argentina,19,4,4.75
+1/1/13,AUD,Australia,4.7,1,4.7
+1/1/13,EUR,Austria,3.39,1,3.39
+1/1/13,EUR,Belgium,3.8,1,3.8
+1/1/13,BRL,Brazil,11.25,1,11.25
+1/1/13,GBP,Britain,2.69,1,2.69
+1/1/13,CAD,Canada,5.41,1,5.41
+1/1/13,CLP,Chile,2050,471,4.35
+1/1/13,CNY,China,16,6,2.67
+1/1/13,COP,Colombia,8600,1773,4.85
+1/1/13,CRC,Costa Rica,2200,500,4.4
+1/1/13,CZK,Czech Republic,70.33,18,3.91
+1/1/13,DKK,Denmark,28.5,5,5.7
+1/1/13,EGP,Egypt,16,6,2.67
+1/1/13,EUR,Estonia,2.7,1,2.7
+1/1/13,EUR,Euro area,3.594849572,1,3.59
+1/1/13,EUR,Finland,3.75,1,3.75
+1/1/13,EUR,France,3.6,1,3.6
+1/1/13,EUR,Germany,3.64,1,3.64
+1/1/13,EUR,Greece,3.3,1,3.3
+1/1/13,HKD,Hong Kong,17,7,2.43
+1/1/13,HUF,Hungary,830,217,3.82
+1/1/13,INR,India,89,53,1.68
+1/1/13,IDR,Indonesia,27939,9767,2.86
+1/1/13,EUR,Ireland,3.49,1,3.49
+1/1/13,ILS,Israel,14.9,3,4.97
+1/1/13,EUR,Italy,3.85,1,3.85
+1/1/13,JPY,Japan,320,91,3.52
+1/1/13,MYR,Malaysia,7.95,3,2.65
+1/1/13,MXN,Mexico,37,12,3.08
+1/1/13,EUR,Netherlands,3.45,1,3.45
+1/1/13,NZD,New Zealand,5.2,1,5.2
+1/1/13,NOK,Norway,43,5,8.6
+1/1/13,PKR,Pakistan,290,97,2.99
+1/1/13,PEN,Peru,10,2,5
+1/1/13,PHP,Philippines,118,40,2.95
+1/1/13,PLN,Poland,9.1,3,3.03
+1/1/13,EUR,Portugal,2.95,1,2.95
+1/1/13,RUB,Russia,72.88,30,2.43
+1/1/13,SAR,Saudi Arabia,11,3,3.67
+1/1/13,SGD,Singapore,4.5,1,4.5
+1/1/13,ZAR,South Africa,20.9,9,2.32
+1/1/13,KRW,South Korea,3700,1085,3.41
+1/1/13,EUR,Spain,3.5,1,3.5
+1/1/13,LKR,Sri Lanka,350,126,2.78
+1/1/13,SEK,Sweden,40.55930138,6,6.76
+1/1/13,CHF,Switzerland,6.5,1,6.5
+1/1/13,TWD,Taiwan,75,29,2.59
+1/1/13,THB,Thailand,87,29,3
+1/1/13,TRY,Turkey,8.45,1,8.45
+1/1/13,AED,UAE,12,3,4
+1/1/13,UAH,Ukraine,19,8,2.38
+1/1/13,USD,United States,4.03,1,4.03
+1/1/13,UYU,Uruguay,105,19,5.53
+1/1/13,VEF,Venezuela,39,4,9.75
+7/1/13,ARS,Argentina,21,5,4.2
+7/1/13,AUD,Australia,5.035,1,5.04
+7/1/13,EUR,Austria,3.39,1,3.39
+7/1/13,EUR,Belgium,3.7,1,3.7
+7/1/13,BRL,Brazil,12,2,6
+7/1/13,GBP,Britain,2.69,1,2.69
+7/1/13,CAD,Canada,5.53,1,5.53
+7/1/13,CLP,Chile,2000,508,3.94
+7/1/13,CNY,China,16,6,2.67
+7/1/13,COP,Colombia,8600,1921,4.48
+7/1/13,CRC,Costa Rica,2150,498,4.32
+7/1/13,CZK,Czech Republic,70.45,20,3.52
+7/1/13,DKK,Denmark,28.5,5,5.7
+7/1/13,EGP,Egypt,16.75,7,2.39
+7/1/13,EUR,Estonia,2.75,1,2.75
+7/1/13,EUR,Euro area,3.623870489,1,3.62
+7/1/13,EUR,Finland,4.1,1,4.1
+7/1/13,EUR,France,3.9,1,3.9
+7/1/13,EUR,Germany,3.64,1,3.64
+7/1/13,EUR,Greece,2.6,1,2.6
+7/1/13,HKD,Hong Kong,17,7,2.43
+7/1/13,HUF,Hungary,860,228,3.77
+7/1/13,INR,India,90,59,1.53
+7/1/13,IDR,Indonesia,27939,9965,2.8
+7/1/13,EUR,Ireland,3.46,1,3.46
+7/1/13,ILS,Israel,17.5,3,5.83
+7/1/13,EUR,Italy,3.75,1,3.75
+7/1/13,JPY,Japan,320,100,3.2
+7/1/13,MYR,Malaysia,7.3,3,2.43
+7/1/13,MXN,Mexico,37,12,3.08
+7/1/13,EUR,Netherlands,3.45,1,3.45
+7/1/13,NZD,New Zealand,5.5,1,5.5
+7/1/13,NOK,Norway,46,6,7.67
+7/1/13,PKR,Pakistan,300,100,3
+7/1/13,PEN,Peru,10,2,5
+7/1/13,PHP,Philippines,115.21,43,2.68
+7/1/13,PLN,Poland,9.2,3,3.07
+7/1/13,EUR,Portugal,2.95,1,2.95
+7/1/13,RUB,Russia,87,32,2.72
+7/1/13,SAR,Saudi Arabia,10,3,3.33
+7/1/13,SGD,Singapore,4.7,1,4.7
+7/1/13,ZAR,South Africa,22.5,10,2.25
+7/1/13,KRW,South Korea,3900,1135,3.44
+7/1/13,EUR,Spain,3.5,1,3.5
+7/1/13,LKR,Sri Lanka,370,130,2.85
+7/1/13,SEK,Sweden,41.61,6,6.94
+7/1/13,CHF,Switzerland,6.5,1,6.5
+7/1/13,TWD,Taiwan,79,30,2.63
+7/1/13,THB,Thailand,89,31,2.87
+7/1/13,TRY,Turkey,8.5,1,8.5
+7/1/13,AED,UAE,12,3,4
+7/1/13,UAH,Ukraine,19,8,2.38
+7/1/13,USD,United States,4.18,1,4.18
+7/1/13,UYU,Uruguay,105,21,5
+7/1/13,VEF,Venezuela,45,6,7.5
+1/1/14,ARS,Argentina,21,6,3.5
+1/1/14,AUD,Australia,5.05,1,5.05
+1/1/14,EUR,Austria,3.39,1,3.39
+1/1/14,EUR,Belgium,3.95,1,3.95
+1/1/14,BRL,Brazil,12.4,2,6.2
+1/1/14,GBP,Britain,2.79,1,2.79
+1/1/14,CAD,Canada,5.54,1,5.54
+1/1/14,CLP,Chile,2000,541,3.7
+1/1/14,CNY,China,16.6,6,2.77
+1/1/14,COP,Colombia,8600,1982,4.34
+1/1/14,CRC,Costa Rica,2150,501,4.29
+1/1/14,CZK,Czech Republic,70.45,20,3.52
+1/1/14,DKK,Denmark,28.5,5,5.7
+1/1/14,EGP,Egypt,16.93,6,2.82
+1/1/14,EUR,Estonia,2.8,1,2.8
+1/1/14,EUR,Euro area,3.657962724,1,3.66
+1/1/14,EUR,Finland,4.1,1,4.1
+1/1/14,EUR,France,3.8,1,3.8
+1/1/14,EUR,Germany,3.67,1,3.67
+1/1/14,EUR,Greece,3.05,1,3.05
+1/1/14,HKD,Hong Kong,18,7,2.57
+1/1/14,HUF,Hungary,860,223,3.86
+1/1/14,INR,India,95,61,1.56
+1/1/14,IDR,Indonesia,27939,12140,2.3
+1/1/14,EUR,Ireland,3.46,1,3.46
+1/1/14,ILS,Israel,17.5,3,5.83
+1/1/14,EUR,Italy,3.85,1,3.85
+1/1/14,JPY,Japan,310,104,2.98
+1/1/14,EUR,Lithuania,8.8,2,4.4
+1/1/14,MYR,Malaysia,7.4,3,2.47
+1/1/14,MXN,Mexico,37,13,2.85
+1/1/14,EUR,Netherlands,3.45,1,3.45
+1/1/14,NZD,New Zealand,5.5,1,5.5
+1/1/14,NOK,Norway,48,6,8
+1/1/14,PKR,Pakistan,320,105,3.05
+1/1/14,PEN,Peru,10,2,5
+1/1/14,PHP,Philippines,135,45,3
+1/1/14,PLN,Poland,9.2,3,3.07
+1/1/14,EUR,Portugal,3,1,3
+1/1/14,RUB,Russia,89,33,2.7
+1/1/14,SAR,Saudi Arabia,11,3,3.67
+1/1/14,SGD,Singapore,4.6,1,4.6
+1/1/14,ZAR,South Africa,23.5,10,2.35
+1/1/14,KRW,South Korea,3700,1067,3.47
+1/1/14,EUR,Spain,3.65,1,3.65
+1/1/14,LKR,Sri Lanka,350,130,2.69
+1/1/14,SEK,Sweden,40.7,6,6.78
+1/1/14,CHF,Switzerland,6.5,1,6.5
+1/1/14,TWD,Taiwan,79,30,2.63
+1/1/14,THB,Thailand,96,32,3
+1/1/14,TRY,Turkey,8.5,2,4.25
+1/1/14,AED,UAE,12,3,4
+1/1/14,UAH,Ukraine,19,8,2.38
+1/1/14,USD,United States,4.24,1,4.24
+1/1/14,UYU,Uruguay,105,21,5
+1/1/14,VEF,Venezuela,45,6,7.5
+7/1/14,ARS,Argentina,21,8,2.62
+7/1/14,AUD,Australia,5.1,1,5.1
+7/1/14,EUR,Austria,3.39,1,3.39
+7/1/14,EUR,Belgium,3.7,1,3.7
+7/1/14,BRL,Brazil,13,2,6.5
+7/1/14,GBP,Britain,2.89,1,2.89
+7/1/14,CAD,Canada,5.64,1,5.64
+7/1/14,CLP,Chile,2100,564,3.72
+7/1/14,CNY,China,16.9,6,2.82
+7/1/14,COP,Colombia,8600,1847,4.66
+7/1/14,CRC,Costa Rica,2150,537,4
+7/1/14,CZK,Czech Republic,70.45,20,3.52
+7/1/14,DKK,Denmark,28.5,5,5.7
+7/1/14,EGP,Egypt,16.93,7,2.42
+7/1/14,EUR,Estonia,2.9,1,2.9
+7/1/14,EUR,Euro area,3.67923829,1,3.68
+7/1/14,EUR,Finland,4.1,1,4.1
+7/1/14,EUR,France,3.9,1,3.9
+7/1/14,EUR,Germany,3.67,1,3.67
+7/1/14,EUR,Greece,3.05,1,3.05
+7/1/14,HKD,Hong Kong,18.8,7,2.69
+7/1/14,HUF,Hungary,860,228,3.77
+7/1/14,INR,India,105,60,1.75
+7/1/14,IDR,Indonesia,27939,11505,2.43
+7/1/14,EUR,Ireland,3.49,1,3.49
+7/1/14,ILS,Israel,17.5,3,5.83
+7/1/14,EUR,Italy,3.85,1,3.85
+7/1/14,JPY,Japan,370,101,3.66
+7/1/14,EUR,Lithuania,8.95,2,4.47
+7/1/14,MYR,Malaysia,7.63,3,2.54
+7/1/14,MXN,Mexico,42,12,3.5
+7/1/14,EUR,Netherlands,3.45,1,3.45
+7/1/14,NZD,New Zealand,5.7,1,5.7
+7/1/14,NOK,Norway,48,6,8
+7/1/14,PKR,Pakistan,300,98,3.06
+7/1/14,PEN,Peru,10,2,5
+7/1/14,PHP,Philippines,160,43,3.72
+7/1/14,PLN,Poland,9.2,3,3.07
+7/1/14,EUR,Portugal,3,1,3
+7/1/14,RUB,Russia,89,34,2.62
+7/1/14,SAR,Saudi Arabia,11,3,3.67
+7/1/14,SGD,Singapore,4.7,1,4.7
+7/1/14,ZAR,South Africa,24.5,10,2.45
+7/1/14,KRW,South Korea,4100,1023,4.01
+7/1/14,EUR,Spain,3.65,1,3.65
+7/1/14,LKR,Sri Lanka,350,130,2.69
+7/1/14,SEK,Sweden,40.7,6,6.78
+7/1/14,CHF,Switzerland,6.16,1,6.16
+7/1/14,TWD,Taiwan,79,29,2.72
+7/1/14,THB,Thailand,99,31,3.19
+7/1/14,TRY,Turkey,9.25,2,4.62
+7/1/14,AED,UAE,13,3,4.33
+7/1/14,UAH,Ukraine,19,11,1.73
+7/1/14,USD,United States,4.29,1,4.29
+7/1/14,UYU,Uruguay,113,22,5.14
+7/1/14,VEF,Venezuela,75,11,6.82
+7/1/14,VND,Vietnam,60000,21230,2.83
+1/1/15,ARS,Argentina,28,8,3.5
+1/1/15,AUD,Australia,5.3,1,5.3
+1/1/15,EUR,Austria,3.39,1,3.39
+1/1/15,EUR,Belgium,3.7,1,3.7
+1/1/15,BRL,Brazil,13.5,2,6.75
+1/1/15,GBP,Britain,2.89,1,2.89
+1/1/15,CAD,Canada,5.7,1,5.7
+1/1/15,CLP,Chile,2100,627,3.35
+1/1/15,CNY,China,17.2,6,2.87
+1/1/15,COP,Colombia,7900,2364,3.34
+1/1/15,CRC,Costa Rica,2150,536,4.01
+1/1/15,CZK,Czech Republic,70.45,24,2.94
+1/1/15,DKK,Denmark,34.5,6,5.75
+1/1/15,EGP,Egypt,16.93,7,2.42
+1/1/15,EUR,Estonia,2.9,1,2.9
+1/1/15,EUR,Euro area,3.68,1,3.68
+1/1/15,EUR,Finland,4.1,1,4.1
+1/1/15,EUR,France,3.9,1,3.9
+1/1/15,EUR,Germany,3.67,1,3.67
+1/1/15,EUR,Greece,3.05,1,3.05
+1/1/15,HKD,Hong Kong,18.8,7,2.69
+1/1/15,HUF,Hungary,860,271,3.17
+1/1/15,INR,India,116.25,61,1.91
+1/1/15,IDR,Indonesia,27939,12480,2.24
+1/1/15,EUR,Ireland,3.49,1,3.49
+1/1/15,ILS,Israel,17.5,3,5.83
+1/1/15,EUR,Italy,3.85,1,3.85
+1/1/15,JPY,Japan,370,117,3.16
+1/1/15,MYR,Malaysia,7.63,3,2.54
+1/1/15,MXN,Mexico,49,14,3.5
+1/1/15,EUR,Netherlands,3.45,1,3.45
+1/1/15,NZD,New Zealand,5.9,1,5.9
+1/1/15,NOK,Norway,48,7,6.86
+1/1/15,PKR,Pakistan,300,100,3
+1/1/15,PEN,Peru,10,3,3.33
+1/1/15,PHP,Philippines,163,44,3.7
+1/1/15,PLN,Poland,9.2,3,3.07
+1/1/15,EUR,Portugal,3,1,3
+1/1/15,RUB,Russia,89,65,1.37
+1/1/15,SAR,Saudi Arabia,11,3,3.67
+1/1/15,SGD,Singapore,4.7,1,4.7
+1/1/15,ZAR,South Africa,25.5,11,2.32
+1/1/15,KRW,South Korea,4100,1083,3.79
+1/1/15,EUR,Spain,3.65,1,3.65
+1/1/15,LKR,Sri Lanka,350,131,2.67
+1/1/15,SEK,Sweden,40.7,8,5.09
+1/1/15,CHF,Switzerland,6.5,1,6.5
+1/1/15,TWD,Taiwan,79,31,2.55
+1/1/15,THB,Thailand,99,32,3.09
+1/1/15,TRY,Turkey,9.25,2,4.62
+1/1/15,AED,UAE,13,3,4.33
+1/1/15,UAH,Ukraine,19,15,1.27
+1/1/15,USD,United States,4.29,1,4.29
+1/1/15,UYU,Uruguay,113,24,4.71
+1/1/15,VEF,Venezuela,132,52,2.54
+1/1/15,VND,Vietnam,60000,21380,2.81
+7/1/15,ARS,Argentina,28,9,3.11
+7/1/15,AUD,Australia,5.3,1,5.3
+7/1/15,EUR,Austria,3.39,1,3.39
+7/1/15,EUR,Belgium,3.7,1,3.7
+7/1/15,BRL,Brazil,13.5,3,4.5
+7/1/15,GBP,Britain,2.89,1,2.89
+7/1/15,CAD,Canada,5.85,1,5.85
+7/1/15,CLP,Chile,2100,642,3.27
+7/1/15,CNY,China,17,6,2.83
+7/1/15,COP,Colombia,7900,2708,2.92
+7/1/15,CRC,Costa Rica,2150,533,4.03
+7/1/15,CZK,Czech Republic,70,24,2.92
+7/1/15,DKK,Denmark,34.59,6,5.76
+7/1/15,EGP,Egypt,16.93,7,2.42
+7/1/15,EUR,Estonia,2.95,1,2.95
+7/1/15,EUR,Euro area,3.7,1,3.7
+7/1/15,EUR,Finland,4.1,1,4.1
+7/1/15,EUR,France,4.1,1,4.1
+7/1/15,EUR,Germany,3.59,1,3.59
+7/1/15,EUR,Greece,3.05,1,3.05
+7/1/15,HKD,Hong Kong,19.2,7,2.74
+7/1/15,HUF,Hungary,900,282,3.19
+7/1/15,INR,India,116.25,63,1.85
+7/1/15,IDR,Indonesia,30500,13344,2.29
+7/1/15,EUR,Ireland,3.7,1,3.7
+7/1/15,ILS,Israel,17.5,3,5.83
+7/1/15,EUR,Italy,4,1,4
+7/1/15,JPY,Japan,370,123,3.01
+7/1/15,MYR,Malaysia,7.65,3,2.55
+7/1/15,MXN,Mexico,49,15,3.27
+7/1/15,EUR,Netherlands,3.45,1,3.45
+7/1/15,NZD,New Zealand,5.9,1,5.9
+7/1/15,NOK,Norway,46,8,5.75
+7/1/15,PKR,Pakistan,350,101,3.47
+7/1/15,PEN,Peru,10,3,3.33
+7/1/15,PHP,Philippines,163,45,3.62
+7/1/15,PLN,Poland,9.6,3,3.2
+7/1/15,EUR,Portugal,3,1,3
+7/1/15,RUB,Russia,107,56,1.91
+7/1/15,SAR,Saudi Arabia,12,3,4
+7/1/15,SGD,Singapore,4.7,1,4.7
+7/1/15,ZAR,South Africa,26,12,2.17
+7/1/15,KRW,South Korea,4300,1143,3.76
+7/1/15,EUR,Spain,3.65,1,3.65
+7/1/15,LKR,Sri Lanka,350,133,2.63
+7/1/15,SEK,Sweden,43.7,8,5.46
+7/1/15,CHF,Switzerland,6.5,1,6.5
+7/1/15,TWD,Taiwan,79,31,2.55
+7/1/15,THB,Thailand,108,34,3.18
+7/1/15,TRY,Turkey,10.25,2,5.12
+7/1/15,AED,UAE,13,3,4.33
+7/1/15,UAH,Ukraine,34,21,1.62
+7/1/15,USD,United States,4.29,1,4.29
+7/1/15,UYU,Uruguay,113,27,4.19
+7/1/15,VEF,Venezuela,132,197,0.67
+7/1/15,VND,Vietnam,60000,21810,2.75
+1/1/16,ARS,Argentina,33,13,2.54
+1/1/16,AUD,Australia,5.3,1,5.3
+1/1/16,EUR,Austria,3.5,1,3.5
+1/1/16,EUR,Belgium,3.95,1,3.95
+1/1/16,BRL,Brazil,13.5,4,3.38
+1/1/16,GBP,Britain,2.89,1,2.89
+1/1/16,CAD,Canada,5.84,1,5.84
+1/1/16,CLP,Chile,2100,715,2.94
+1/1/16,CNY,China,17.6,6,2.93
+1/1/16,COP,Colombia,7900,3253,2.43
+1/1/16,CRC,Costa Rica,2150,535,4.02
+1/1/16,CZK,Czech Republic,75,25,3
+1/1/16,DKK,Denmark,30,6,5
+1/1/16,EGP,Egypt,16.93,7,2.42
+1/1/16,EUR,Estonia,3,1,3
+1/1/16,EUR,Euro area,3.72,1,3.72
+1/1/16,EUR,Finland,4.1,1,4.1
+1/1/16,EUR,France,4.1,1,4.1
+1/1/16,EUR,Germany,3.59,1,3.59
+1/1/16,EUR,Greece,3.35,1,3.35
+1/1/16,HKD,Hong Kong,19.2,7,2.74
+1/1/16,HUF,Hungary,900,292,3.08
+1/1/16,INR,India,127,66,1.92
+1/1/16,IDR,Indonesia,30500,13947,2.19
+1/1/16,EUR,Ireland,3.95,1,3.95
+1/1/16,ILS,Israel,16.9,3,5.63
+1/1/16,EUR,Italy,4,1,4
+1/1/16,JPY,Japan,370,118,3.14
+1/1/16,MYR,Malaysia,8,4,2
+1/1/16,MXN,Mexico,49,17,2.88
+1/1/16,EUR,Netherlands,3.45,1,3.45
+1/1/16,NZD,New Zealand,5.9,1,5.9
+1/1/16,NOK,Norway,46.8,8,5.85
+1/1/16,PKR,Pakistan,300,104,2.88
+1/1/16,PEN,Peru,10,3,3.33
+1/1/16,PHP,Philippines,131,47,2.79
+1/1/16,PLN,Poland,9.6,4,2.4
+1/1/16,EUR,Portugal,3,1,3
+1/1/16,RUB,Russia,114,74,1.54
+1/1/16,SAR,Saudi Arabia,12,3,4
+1/1/16,SGD,Singapore,4.7,1,4.7
+1/1/16,ZAR,South Africa,28,15,1.87
+1/1/16,KRW,South Korea,4300,1197,3.59
+1/1/16,EUR,Spain,3.5,1,3.5
+1/1/16,LKR,Sri Lanka,350,144,2.43
+1/1/16,SEK,Sweden,45,8,5.62
+1/1/16,CHF,Switzerland,6.5,1,6.5
+1/1/16,TWD,Taiwan,69,33,2.09
+1/1/16,THB,Thailand,112,36,3.11
+1/1/16,TRY,Turkey,10.25,3,3.42
+1/1/16,AED,UAE,13,3,4.33
+1/1/16,UAH,Ukraine,36,23,1.57
+1/1/16,USD,United States,4.29,1,4.29
+1/1/16,UYU,Uruguay,113,30,3.77
+1/1/16,VEF,Venezuela,132,198,0.67
+1/1/16,VND,Vietnam,60000,22467,2.67
+7/1/16,ARS,Argentina,50,14,3.57
+7/1/16,AUD,Australia,5.75,1,5.75
+7/1/16,EUR,Austria,3.6,1,3.6
+7/1/16,EUR,Belgium,3.95,1,3.95
+7/1/16,BRL,Brazil,15.5,3,5.17
+7/1/16,GBP,Britain,2.99,1,2.99
+7/1/16,CAD,Canada,6,1,6
+7/1/16,CLP,Chile,2300,651,3.53
+7/1/16,CNY,China,18.6,6,3.1
+7/1/16,COP,Colombia,8900,2929,3.04
+7/1/16,CRC,Costa Rica,2250,546,4.12
+7/1/16,CZK,Czech Republic,75,24,3.12
+7/1/16,DKK,Denmark,30,6,5
+7/1/16,EGP,Egypt,23,8,2.88
+7/1/16,EUR,Estonia,3.1,1,3.1
+7/1/16,EUR,Euro area,3.82,1,3.82
+7/1/16,EUR,Finland,4.6,1,4.6
+7/1/16,EUR,France,4.1,1,4.1
+7/1/16,EUR,Germany,3.79,1,3.79
+7/1/16,EUR,Greece,3.35,1,3.35
+7/1/16,HKD,Hong Kong,19.2,7,2.74
+7/1/16,HUF,Hungary,900,285,3.16
+7/1/16,INR,India,162,67,2.42
+7/1/16,IDR,Indonesia,31000,13112,2.36
+7/1/16,EUR,Ireland,4,1,4
+7/1/16,ILS,Israel,16.9,3,5.63
+7/1/16,EUR,Italy,4.2,1,4.2
+7/1/16,JPY,Japan,370,106,3.49
+7/1/16,MYR,Malaysia,8,4,2
+7/1/16,MXN,Mexico,44,18,2.44
+7/1/16,EUR,Netherlands,3.45,1,3.45
+7/1/16,NZD,New Zealand,6,1,6
+7/1/16,NOK,Norway,46.8,8,5.85
+7/1/16,PKR,Pakistan,375,104,3.61
+7/1/16,PEN,Peru,10,3,3.33
+7/1/16,PHP,Philippines,133,47,2.83
+7/1/16,PLN,Poland,9.6,3,3.2
+7/1/16,EUR,Portugal,3.05,1,3.05
+7/1/16,RUB,Russia,130,63,2.06
+7/1/16,SAR,Saudi Arabia,12,3,4
+7/1/16,SGD,Singapore,5.45,1,5.45
+7/1/16,ZAR,South Africa,30,14,2.14
+7/1/16,KRW,South Korea,4400,1140,3.86
+7/1/16,EUR,Spain,3.5,1,3.5
+7/1/16,LKR,Sri Lanka,530,146,3.63
+7/1/16,SEK,Sweden,44.94,8,5.62
+7/1/16,CHF,Switzerland,6.5,1,6.5
+7/1/16,TWD,Taiwan,69,32,2.16
+7/1/16,THB,Thailand,119,34,3.5
+7/1/16,TRY,Turkey,10.75,3,3.58
+7/1/16,AED,UAE,13,3,4.33
+7/1/16,UAH,Ukraine,39,24,1.62
+7/1/16,USD,United States,4.5,1,4.5
+7/1/16,UYU,Uruguay,123,30,4.1
+7/1/16,VEF,Venezuela,2170,641,3.39
+7/1/16,VND,Vietnam,60000,22300,2.69
+1/1/17,ARS,Argentina,55,15,3.67
+1/1/17,AUD,Australia,5.8,1,5.8
+1/1/17,EUR,Austria,3.4,1,3.4
+1/1/17,EUR,Belgium,3.95,1,3.95
+1/1/17,BRL,Brazil,16.5,3,5.5
+1/1/17,GBP,Britain,3.09,1,3.09
+1/1/17,CAD,Canada,5.98,1,5.98
+1/1/17,CLP,Chile,2450,672,3.65
+1/1/17,CNY,China,19.6,6,3.27
+1/1/17,COP,Colombia,9900,2994,3.31
+1/1/17,CRC,Costa Rica,2250,554,4.06
+1/1/17,CZK,Czech Republic,75,25,3
+1/1/17,DKK,Denmark,30,7,4.29
+1/1/17,EGP,Egypt,27.49,18,1.53
+1/1/17,EUR,Estonia,3.1,1,3.1
+1/1/17,EUR,Euro area,3.88,1,3.88
+1/1/17,EUR,Finland,4.55,1,4.55
+1/1/17,EUR,France,4.1,1,4.1
+1/1/17,EUR,Germany,3.79,1,3.79
+1/1/17,EUR,Greece,3.35,1,3.35
+1/1/17,HKD,Hong Kong,19.2,7,2.74
+1/1/17,HUF,Hungary,900,294,3.06
+1/1/17,INR,India,170,68,2.5
+1/1/17,IDR,Indonesia,31000,13329,2.33
+1/1/17,EUR,Ireland,4,1,4
+1/1/17,ILS,Israel,16.9,3,5.63
+1/1/17,EUR,Italy,4.2,1,4.2
+1/1/17,JPY,Japan,380,116,3.28
+1/1/17,MYR,Malaysia,8,4,2
+1/1/17,MXN,Mexico,49,21,2.33
+1/1/17,EUR,Netherlands,3.61,1,3.61
+1/1/17,NZD,New Zealand,6,1,6
+1/1/17,NOK,Norway,49,8,6.12
+1/1/17,PKR,Pakistan,375,104,3.61
+1/1/17,PEN,Peru,11,3,3.67
+1/1/17,PHP,Philippines,133,49,2.71
+1/1/17,PLN,Poland,9.6,4,2.4
+1/1/17,EUR,Portugal,3.05,1,3.05
+1/1/17,RUB,Russia,130,60,2.17
+1/1/17,SAR,Saudi Arabia,12,3,4
+1/1/17,SGD,Singapore,5.6,1,5.6
+1/1/17,ZAR,South Africa,26.32,13,2.02
+1/1/17,KRW,South Korea,4400,1196,3.68
+1/1/17,EUR,Spain,3.95,1,3.95
+1/1/17,LKR,Sri Lanka,550,150,3.67
+1/1/17,SEK,Sweden,48,9,5.33
+1/1/17,CHF,Switzerland,6.5,1,6.5
+1/1/17,TWD,Taiwan,69,31,2.23
+1/1/17,THB,Thailand,119,35,3.4
+1/1/17,TRY,Turkey,10.75,3,3.58
+1/1/17,AED,UAE,13,3,4.33
+1/1/17,UAH,Ukraine,42,27,1.56
+1/1/17,USD,United States,4.5,1,4.5
+1/1/17,UYU,Uruguay,125,28,4.46
+1/1/17,VEF,Venezuela,3550,676,5.25
+1/1/17,VND,Vietnam,60000,22572,2.66
+7/1/17,ARS,Argentina,70,16,4.38
+7/1/17,AUD,Australia,5.9,1,5.9
+7/1/17,EUR,Austria,3.4,1,3.4
+7/1/17,EUR,Belgium,4.05,1,4.05
+7/1/17,BRL,Brazil,16.5,3,5.5
+7/1/17,GBP,Britain,3.19,1,3.19
+7/1/17,CAD,Canada,5.97,1,5.97
+7/1/17,CLP,Chile,2550,663,3.85
+7/1/17,CNY,China,19.8,6,3.3
+7/1/17,COP,Colombia,9900,3052,3.24
+7/1/17,CRC,Costa Rica,2290,572,4
+7/1/17,CZK,Czech Republic,75,22,3.41
+7/1/17,DKK,Denmark,30,6,5
+7/1/17,EGP,Egypt,31.37,17,1.85
+7/1/17,EUR,Estonia,3.15,1,3.15
+7/1/17,EUR,Euro area,3.91,1,3.91
+7/1/17,EUR,Finland,4.56,1,4.56
+7/1/17,EUR,France,4.1,1,4.1
+7/1/17,EUR,Germany,3.9,1,3.9
+7/1/17,EUR,Greece,3.35,1,3.35
+7/1/17,HKD,Hong Kong,19.2,7,2.74
+7/1/17,HUF,Hungary,862,268,3.22
+7/1/17,INR,India,178,64,2.78
+7/1/17,IDR,Indonesia,32126,13369,2.4
+7/1/17,EUR,Ireland,4.07,1,4.07
+7/1/17,ILS,Israel,16.9,3,5.63
+7/1/17,EUR,Italy,4.2,1,4.2
+7/1/17,JPY,Japan,380,113,3.36
+7/1/17,MYR,Malaysia,8.6,4,2.15
+7/1/17,MXN,Mexico,49,17,2.88
+7/1/17,EUR,Netherlands,3.61,1,3.61
+7/1/17,NZD,New Zealand,6.1,1,6.1
+7/1/17,NOK,Norway,49,8,6.12
+7/1/17,PKR,Pakistan,375,105,3.57
+7/1/17,PEN,Peru,10.5,3,3.5
+7/1/17,PHP,Philippines,134,50,2.68
+7/1/17,PLN,Poland,10.1,3,3.37
+7/1/17,EUR,Portugal,3.25,1,3.25
+7/1/17,RUB,Russia,137,60,2.28
+7/1/17,SAR,Saudi Arabia,12,3,4
+7/1/17,SGD,Singapore,5.6,1,5.6
+7/1/17,ZAR,South Africa,30,13,2.31
+7/1/17,KRW,South Korea,4400,1144,3.85
+7/1/17,EUR,Spain,3.8,1,3.8
+7/1/17,LKR,Sri Lanka,580,153,3.79
+7/1/17,SEK,Sweden,48.97,8,6.12
+7/1/17,CHF,Switzerland,6.5,1,6.5
+7/1/17,TWD,Taiwan,69,30,2.3
+7/1/17,THB,Thailand,119,34,3.5
+7/1/17,TRY,Turkey,10.75,3,3.58
+7/1/17,AED,UAE,14,3,4.67
+7/1/17,UAH,Ukraine,44,25,1.76
+7/1/17,USD,United States,4.5,1,4.5
+7/1/17,UYU,Uruguay,130,28,4.64
+7/1/17,VEF,Venezuela,10950,2700,4.06
+7/1/17,VND,Vietnam,60000,22732,2.64
+1/1/18,ARS,Argentina,75,18,4.17
+1/1/18,AUD,Australia,5.9,1,5.9
+1/1/18,EUR,Austria,3.4,1,3.4
+1/1/18,EUR,Belgium,4.1,1,4.1
+1/1/18,BRL,Brazil,16.5,3,5.5
+1/1/18,GBP,Britain,3.19,1,3.19
+1/1/18,CAD,Canada,6.55,1,6.55
+1/1/18,CLP,Chile,2600,605,4.3
+1/1/18,CNY,China,20.4,6,3.4
+1/1/18,COP,Colombia,10900,2844,3.83
+1/1/18,CRC,Costa Rica,2290,568,4.03
+1/1/18,CZK,Czech Republic,79,20,3.95
+1/1/18,DKK,Denmark,30,6,5
+1/1/18,EGP,Egypt,34.21,17,2.01
+1/1/18,EUR,Estonia,3.15,1,3.15
+1/1/18,EUR,Euro area,3.95,1,3.95
+1/1/18,EUR,Finland,4.56,1,4.56
+1/1/18,EUR,France,4.2,1,4.2
+1/1/18,EUR,Germany,3.9,1,3.9
+1/1/18,EUR,Greece,3.35,1,3.35
+1/1/18,HKD,Hong Kong,20.5,7,2.93
+1/1/18,HUF,Hungary,864,252,3.43
+1/1/18,INR,India,180,63,2.86
+1/1/18,IDR,Indonesia,35750,13359,2.68
+1/1/18,EUR,Ireland,4.07,1,4.07
+1/1/18,ILS,Israel,16.5,3,5.5
+1/1/18,EUR,Italy,4.2,1,4.2
+1/1/18,JPY,Japan,380,110,3.45
+1/1/18,MYR,Malaysia,9,3,3
+1/1/18,MXN,Mexico,48,18,2.67
+1/1/18,EUR,Netherlands,3.71,1,3.71
+1/1/18,NZD,New Zealand,6.2,1,6.2
+1/1/18,NOK,Norway,49,7,7
+1/1/18,PKR,Pakistan,375,110,3.41
+1/1/18,PEN,Peru,10.5,3,3.5
+1/1/18,PHP,Philippines,134,50,2.68
+1/1/18,PLN,Poland,10.1,3,3.37
+1/1/18,EUR,Portugal,3.2,1,3.2
+1/1/18,RUB,Russia,130,56,2.32
+1/1/18,SAR,Saudi Arabia,12,3,4
+1/1/18,SGD,Singapore,5.8,1,5.8
+1/1/18,ZAR,South Africa,30,12,2.5
+1/1/18,KRW,South Korea,4400,1069,4.12
+1/1/18,EUR,Spain,3.95,1,3.95
+1/1/18,LKR,Sri Lanka,580,153,3.79
+1/1/18,SEK,Sweden,49.1,8,6.14
+1/1/18,CHF,Switzerland,6.5,1,6.5
+1/1/18,TWD,Taiwan,69,29,2.38
+1/1/18,THB,Thailand,119,31,3.84
+1/1/18,TRY,Turkey,10.75,3,3.58
+1/1/18,AED,UAE,14,3,4.67
+1/1/18,UAH,Ukraine,47,28,1.68
+1/1/18,USD,United States,4.61,1,4.61
+1/1/18,UYU,Uruguay,140,28,5
+1/1/18,VEF,Venezuela,0,1,0
+1/1/18,VND,Vietnam,65000,22711,2.86
+7/1/18,ARS,Argentina,75,27,2.78
+7/1/18,AUD,Australia,6.05,1,6.05
+7/1/18,EUR,Austria,3.4,1,3.4
+7/1/18,AZN,Azerbaijan,3.95,1,3.95
+7/1/18,BHD,Bahrain,1.2,1,1.2
+7/1/18,EUR,Belgium,4.1,1,4.1
+7/1/18,BRL,Brazil,16.9,3,5.63
+7/1/18,GBP,Britain,3.19,1,3.19
+7/1/18,CAD,Canada,6.65,1,6.65
+7/1/18,CLP,Chile,2640,651,4.06
+7/1/18,CNY,China,20.5,6,3.42
+7/1/18,COP,Colombia,11900,2874,4.14
+7/1/18,CRC,Costa Rica,2290,567,4.04
+7/1/18,HRK,Croatia,21,6,3.5
+7/1/18,CZK,Czech Republic,75,22,3.41
+7/1/18,DKK,Denmark,30,6,5
+7/1/18,EGP,Egypt,31.37,17,1.85
+7/1/18,EUR,Estonia,3.15,1,3.15
+7/1/18,EUR,Euro area,4.04,1,4.04
+7/1/18,EUR,Finland,4.62,1,4.62
+7/1/18,EUR,France,4.2,1,4.2
+7/1/18,EUR,Germany,4.12,1,4.12
+7/1/18,EUR,Greece,3.35,1,3.35
+7/1/18,GTQ,Guatemala,25,7,3.57
+7/1/18,HNL,Honduras,85,23,3.7
+7/1/18,HKD,Hong Kong,20,7,2.86
+7/1/18,HUF,Hungary,850,276,3.08
+7/1/18,INR,India,173,68,2.54
+7/1/18,IDR,Indonesia,31500,14360,2.19
+7/1/18,EUR,Ireland,4.07,1,4.07
+7/1/18,ILS,Israel,17,3,5.67
+7/1/18,EUR,Italy,4.2,1,4.2
+7/1/18,JPY,Japan,390,111,3.51
+7/1/18,JOD,Jordan,1.95,1,1.95
+7/1/18,KWD,Kuwait,1.05,1,1.05
+7/1/18,EUR,Latvia,2.7,1,2.7
+7/1/18,LBP,Lebanon,6500,1511,4.3
+7/1/18,EUR,Lithuania,2.8,1,2.8
+7/1/18,MYR,Malaysia,8.45,4,2.11
+7/1/18,MXN,Mexico,49,19,2.58
+7/1/18,MDL,Moldova,43,16,2.69
+7/1/18,EUR,Netherlands,3.79,1,3.79
+7/1/18,NZD,New Zealand,6.2,1,6.2
+7/1/18,NIO,Nicaragua,103,31,3.32
+7/1/18,NOK,Norway,42,8,5.25
+7/1/18,OMR,Oman,1.05,1,1.05
+7/1/18,PKR,Pakistan,375,121,3.1
+7/1/18,PEN,Peru,10.5,3,3.5
+7/1/18,PHP,Philippines,140,53,2.64
+7/1/18,PLN,Poland,10.1,3,3.37
+7/1/18,EUR,Portugal,3.25,1,3.25
+7/1/18,QAR,Qatar,12,3,4
+7/1/18,RON,Romania,9.2,3,3.07
+7/1/18,RUB,Russia,130,62,2.1
+7/1/18,SAR,Saudi Arabia,12,3,4
+7/1/18,SGD,Singapore,5.8,1,5.8
+7/1/18,EUR,Slovakia,3,1,3
+7/1/18,EUR,Slovenia,2.3,1,2.3
+7/1/18,ZAR,South Africa,31,13,2.38
+7/1/18,KRW,South Korea,4500,1116,4.03
+7/1/18,EUR,Spain,4.1,1,4.1
+7/1/18,LKR,Sri Lanka,580,159,3.65
+7/1/18,SEK,Sweden,51,8,6.38
+7/1/18,CHF,Switzerland,6.5,1,6.5
+7/1/18,TWD,Taiwan,69,30,2.3
+7/1/18,THB,Thailand,119,33,3.61
+7/1/18,TRY,Turkey,10.75,4,2.69
+7/1/18,UAH,Ukraine,50,26,1.92
+7/1/18,AED,United Arab Emirates,14,3,4.67
+7/1/18,USD,United States,4.62,1,4.62
+7/1/18,UYU,Uruguay,140,31,4.52
+7/1/18,VND,Vietnam,65000,23039,2.82
+1/1/19,ARS,Argentina,75,37,2.03
+1/1/19,AUD,Australia,6.1,1,6.1
+1/1/19,EUR,Austria,3.76,1,3.76
+1/1/19,AZN,Azerbaijan,3.95,1,3.95
+1/1/19,BHD,Bahrain,1.2,1,1.2
+1/1/19,EUR,Belgium,4.2,1,4.2
+1/1/19,BRL,Brazil,16.9,3,5.63
+1/1/19,GBP,Britain,3.19,1,3.19
+1/1/19,CAD,Canada,6.77,1,6.77
+1/1/19,CLP,Chile,2640,678,3.89
+1/1/19,CNY,China,20.9,6,3.48
+1/1/19,COP,Colombia,11900,3191,3.73
+1/1/19,CRC,Costa Rica,2290,606,3.78
+1/1/19,HRK,Croatia,21,6,3.5
+1/1/19,CZK,Czech Republic,85,22,3.86
+1/1/19,DKK,Denmark,30,6,5
+1/1/19,EGP,Egypt,40,17,2.35
+1/1/19,EUR,Estonia,3.2,1,3.2
+1/1/19,EUR,Euro area,4.05,1,4.05
+1/1/19,EUR,Finland,4.62,1,4.62
+1/1/19,EUR,France,4.2,1,4.2
+1/1/19,EUR,Germany,4.12,1,4.12
+1/1/19,EUR,Greece,3.35,1,3.35
+1/1/19,GTQ,Guatemala,25,7,3.57
+1/1/19,HNL,Honduras,85,24,3.54
+1/1/19,HKD,Hong Kong,20,7,2.86
+1/1/19,HUF,Hungary,850,280,3.04
+1/1/19,INR,India,178,69,2.58
+1/1/19,IDR,Indonesia,33000,14090,2.34
+1/1/19,EUR,Ireland,4.07,1,4.07
+1/1/19,ILS,Israel,17,3,5.67
+1/1/19,EUR,Italy,4.2,1,4.2
+1/1/19,JPY,Japan,390,108,3.61
+1/1/19,JOD,Jordan,1.95,1,1.95
+1/1/19,KWD,Kuwait,1.05,1,1.05
+1/1/19,EUR,Latvia,2.8,1,2.8
+1/1/19,LBP,Lebanon,6500,1507,4.31
+1/1/19,EUR,Lithuania,2.85,1,2.85
+1/1/19,MYR,Malaysia,9.05,4,2.26
+1/1/19,MXN,Mexico,49,19,2.58
+1/1/19,MDL,Moldova,40,17,2.35
+1/1/19,EUR,Netherlands,4,1,4
+1/1/19,NZD,New Zealand,6.2,1,6.2
+1/1/19,NIO,Nicaragua,103,32,3.22
+1/1/19,NOK,Norway,50,8,6.25
+1/1/19,OMR,Oman,1.05,1,1.05
+1/1/19,PKR,Pakistan,460,138,3.33
+1/1/19,PEN,Peru,10.5,3,3.5
+1/1/19,PHP,Philippines,140,52,2.69
+1/1/19,PLN,Poland,10.5,3,3.5
+1/1/19,EUR,Portugal,3.25,1,3.25
+1/1/19,QAR,Qatar,12,3,4
+1/1/19,RON,Romania,9.3,4,2.33
+1/1/19,RUB,Russia,110.17,66,1.67
+1/1/19,SAR,Saudi Arabia,12,3,4
+1/1/19,SGD,Singapore,5.8,1,5.8
+1/1/19,EUR,Slovakia,3.2,1,3.2
+1/1/19,EUR,Slovenia,2.3,1,2.3
+1/1/19,ZAR,South Africa,31,13,2.38
+1/1/19,KRW,South Korea,4500,1118,4.03
+1/1/19,EUR,Spain,3.95,1,3.95
+1/1/19,LKR,Sri Lanka,580,182,3.19
+1/1/19,SEK,Sweden,52,8,6.5
+1/1/19,CHF,Switzerland,6.5,1,6.5
+1/1/19,TWD,Taiwan,69,30,2.3
+1/1/19,THB,Thailand,119,32,3.72
+1/1/19,TRY,Turkey,10.75,5,2.15
+1/1/19,UAH,Ukraine,54,27,2
+1/1/19,AED,United Arab Emirates,14,3,4.67
+1/1/19,USD,United States,4.71,1,4.71
+1/1/19,UYU,Uruguay,140,32,4.38
+1/1/19,VND,Vietnam,65000,23199,2.8
+7/9/19,ARS,Argentina,120,41,2.93
+7/9/19,AUD,Australia,6.15,1,6.15
+7/9/19,EUR,Austria,3.81,1,3.81
+7/9/19,AZN,Azerbaijan,3.95,1,3.95
+7/9/19,BHD,Bahrain,1.4,1,1.4
+7/9/19,EUR,Belgium,4.2,1,4.2
+7/9/19,BRL,Brazil,17.5,3,5.83
+7/9/19,GBP,Britain,3.29,1,3.29
+7/9/19,CAD,Canada,6.77,1,6.77
+7/9/19,CLP,Chile,2640,689,3.83
+7/9/19,CNY,China,21,6,3.5
+7/9/19,COP,Colombia,11900,3227,3.69
+7/9/19,CRC,Costa Rica,2290,581,3.94
+7/9/19,HRK,Croatia,22,6,3.67
+7/9/19,CZK,Czech Republic,85,22,3.86
+7/9/19,DKK,Denmark,30,6,5
+7/9/19,EGP,Egypt,42,16,2.62
+7/9/19,EUR,Estonia,3.2,1,3.2
+7/9/19,EUR,Euro area,4.08,1,4.08
+7/9/19,EUR,Finland,4.75,1,4.75
+7/9/19,EUR,France,4.2,1,4.2
+7/9/19,EUR,Germany,4.14,1,4.14
+7/9/19,EUR,Greece,3.3,1,3.3
+7/9/19,GTQ,Guatemala,25,7,3.57
+7/9/19,HNL,Honduras,86,24,3.58
+7/9/19,HKD,Hong Kong,20.5,7,2.93
+7/9/19,HUF,Hungary,900,290,3.1
+7/9/19,INR,India,183,68,2.69
+7/9/19,IDR,Indonesia,32000,14130,2.26
+7/9/19,EUR,Ireland,4.3,1,4.3
+7/9/19,ILS,Israel,17,3,5.67
+7/9/19,EUR,Italy,4.3,1,4.3
+7/9/19,JPY,Japan,390,108,3.61
+7/9/19,JOD,Jordan,2.3,1,2.3
+7/9/19,KWD,Kuwait,1.1,1,1.1
+7/9/19,EUR,Latvia,2.85,1,2.85
+7/9/19,LBP,Lebanon,6500,1507,4.31
+7/9/19,EUR,Lithuania,2.85,1,2.85
+7/9/19,MYR,Malaysia,8.85,4,2.21
+7/9/19,MXN,Mexico,50,18,2.78
+7/9/19,MDL,Moldova,43,17,2.53
+7/9/19,EUR,Netherlands,4.06,1,4.06
+7/9/19,NZD,New Zealand,6.4,1,6.4
+7/9/19,NIO,Nicaragua,110,33,3.33
+7/9/19,NOK,Norway,42,8,5.25
+7/9/19,OMR,Oman,1.21,1,1.21
+7/9/19,PKR,Pakistan,480,157,3.06
+7/9/19,PEN,Peru,10.5,3,3.5
+7/9/19,PHP,Philippines,142,51,2.78
+7/9/19,PLN,Poland,10.8,3,3.6
+7/9/19,EUR,Portugal,3.25,1,3.25
+7/9/19,QAR,Qatar,13,3,4.33
+7/9/19,RON,Romania,9.3,4,2.33
+7/9/19,RUB,Russia,130,63,2.06
+7/9/19,SAR,Saudi Arabia,13,3,4.33
+7/9/19,SGD,Singapore,5.8,1,5.8
+7/9/19,EUR,Slovakia,3.2,1,3.2
+7/9/19,EUR,Slovenia,2.4,1,2.4
+7/9/19,ZAR,South Africa,31,14,2.21
+7/9/19,KRW,South Korea,4500,1180,3.81
+7/9/19,EUR,Spain,3.95,1,3.95
+7/9/19,LKR,Sri Lanka,640,175,3.66
+7/9/19,SEK,Sweden,51,9,5.67
+7/9/19,CHF,Switzerland,6.5,1,6.5
+7/9/19,TWD,Taiwan,72,31,2.32
+7/9/19,THB,Thailand,119,30,3.97
+7/9/19,TRY,Turkey,13.99,5,2.8
+7/9/19,UAH,Ukraine,57,25,2.28
+7/9/19,AED,United Arab Emirates,14.75,3,4.92
+7/9/19,USD,United States,4.71,1,4.71
+7/9/19,UYU,Uruguay,164,35,4.69
+7/9/19,VND,Vietnam,65000,23231,2.8
+1/14/20,ARS,Argentina,171,60,2.85
+1/14/20,AUD,Australia,6.45,1,6.45
+1/14/20,EUR,Austria,3.84,1,3.84
+1/14/20,AZN,Azerbaijan,3.95,1,3.95
+1/14/20,BHD,Bahrain,1.4,1,1.4
+1/14/20,EUR,Belgium,4.3,1,4.3
+1/14/20,BRL,Brazil,19.9,4,4.97
+1/14/20,GBP,Britain,3.39,1,3.39
+1/14/20,CAD,Canada,6.77,1,6.77
+1/14/20,CLP,Chile,2640,772,3.42
+1/14/20,CNY,China,21.5,6,3.58
+1/14/20,COP,Colombia,11900,3287,3.62
+1/14/20,CRC,Costa Rica,2350,569,4.13
+1/14/20,HRK,Croatia,22,6,3.67
+1/14/20,CZK,Czech Republic,85,22,3.86
+1/14/20,DKK,Denmark,30,6,5
+1/14/20,EGP,Egypt,42,15,2.8
+1/14/20,EUR,Estonia,3.2,1,3.2
+1/14/20,EUR,Euro area,4.12,1,4.12
+1/14/20,EUR,Finland,4.83,1,4.83
+1/14/20,EUR,France,4.2,1,4.2
+1/14/20,EUR,Germany,4.14,1,4.14
+1/14/20,EUR,Greece,3.3,1,3.3
+1/14/20,GTQ,Guatemala,25,7,3.57
+1/14/20,HNL,Honduras,87,24,3.62
+1/14/20,HKD,Hong Kong,20.5,7,2.93
+1/14/20,HUF,Hungary,900,298,3.02
+1/14/20,INR,India,188,70,2.69
+1/14/20,IDR,Indonesia,33000,13670,2.41
+1/14/20,EUR,Ireland,4.2,1,4.2
+1/14/20,ILS,Israel,17,3,5.67
+1/14/20,EUR,Italy,4.3,1,4.3
+1/14/20,JPY,Japan,390,110,3.55
+1/14/20,JOD,Jordan,2.3,1,2.3
+1/14/20,KWD,Kuwait,1.1,1,1.1
+1/14/20,EUR,Latvia,2.85,1,2.85
+1/14/20,LBP,Lebanon,6500,1514,4.29
+1/14/20,EUR,Lithuania,2.85,1,2.85
+1/14/20,MYR,Malaysia,9.5,4,2.38
+1/14/20,MXN,Mexico,50,18,2.78
+1/14/20,MDL,Moldova,45,17,2.65
+1/14/20,EUR,Netherlands,4.09,1,4.09
+1/14/20,NZD,New Zealand,6.5,1,6.5
+1/14/20,NIO,Nicaragua,120,33,3.64
+1/14/20,NOK,Norway,53,8,6.62
+1/14/20,OMR,Oman,1.155,1,1.16
+1/14/20,PKR,Pakistan,520,154,3.38
+1/14/20,PEN,Peru,11.9,3,3.97
+1/14/20,PHP,Philippines,142,50,2.84
+1/14/20,PLN,Poland,11,3,3.67
+1/14/20,EUR,Portugal,3.25,1,3.25
+1/14/20,QAR,Qatar,13,3,4.33
+1/14/20,RON,Romania,9.5,4,2.38
+1/14/20,RUB,Russia,135,61,2.21
+1/14/20,SAR,Saudi Arabia,13,3,4.33
+1/14/20,SGD,Singapore,5.9,1,5.9
+1/14/20,EUR,Slovakia,3.4,1,3.4
+1/14/20,EUR,Slovenia,2.4,1,2.4
+1/14/20,ZAR,South Africa,31,14,2.21
+1/14/20,KRW,South Korea,4500,1156,3.89
+1/14/20,EUR,Spain,4.2,1,4.2
+1/14/20,LKR,Sri Lanka,580,181,3.2
+1/14/20,SEK,Sweden,51.5,9,5.72
+1/14/20,CHF,Switzerland,6.5,1,6.5
+1/14/20,TWD,Taiwan,72,29,2.48
+1/14/20,THB,Thailand,115,30,3.83
+1/14/20,TRY,Turkey,12.99,5,2.6
+1/14/20,UAH,Ukraine,57,23,2.48
+1/14/20,AED,United Arab Emirates,14.75,3,4.92
+1/14/20,USD,United States,4.82,1,4.82
+1/14/20,UYU,Uruguay,179,37,4.84
+1/14/20,VND,Vietnam,66000,23176,2.85
+7/1/20,ARS,Argentina,250,71,3.52
+7/1/20,AUD,Australia,6.55,1,6.55
+7/1/20,EUR,Austria,3.86,1,3.86
+7/1/20,AZN,Azerbaijan,3.95,1,3.95
+7/1/20,BHD,Bahrain,1.4,1,1.4
+7/1/20,EUR,Belgium,4.35,1,4.35
+7/1/20,BRL,Brazil,20.9,5,4.18
+7/1/20,GBP,Britain,3.39,1,3.39
+7/1/20,CAD,Canada,6.88,1,6.88
+7/1/20,CLP,Chile,2740,787,3.48
+7/1/20,CNY,China,21.7,7,3.1
+7/1/20,COP,Colombia,11900,3617,3.29
+7/1/20,CRC,Costa Rica,2350,581,4.04
+7/1/20,HRK,Croatia,22,6,3.67
+7/1/20,CZK,Czech Republic,89,23,3.87
+7/1/20,DKK,Denmark,30,6,5
+7/1/20,EGP,Egypt,42,15,2.8
+7/1/20,EUR,Estonia,3.2,1,3.2
+7/1/20,EUR,Euro area,4.21,1,4.21
+7/1/20,EUR,Finland,4.88,1,4.88
+7/1/20,EUR,France,4.2,1,4.2
+7/1/20,EUR,Germany,4.45,1,4.45
+7/1/20,EUR,Greece,3.3,1,3.3
+7/1/20,GTQ,Guatemala,25,7,3.57
+7/1/20,HNL,Honduras,87,24,3.62
+7/1/20,HKD,Hong Kong,20.5,7,2.93
+7/1/20,HUF,Hungary,900,311,2.89
+7/1/20,INR,India,190,75,2.53
+7/1/20,IDR,Indonesia,34000,14435,2.36
+7/1/20,EUR,Ireland,4.3,1,4.3
+7/1/20,ILS,Israel,17,3,5.67
+7/1/20,EUR,Italy,4.3,1,4.3
+7/1/20,JPY,Japan,390,107,3.64
+7/1/20,JOD,Jordan,2.3,1,2.3
+7/1/20,KWD,Kuwait,1.15,1,1.15
+7/1/20,EUR,Latvia,2.85,1,2.85
+7/1/20,LBP,Lebanon,9000,1512,5.95
+7/1/20,EUR,Lithuania,2.85,1,2.85
+7/1/20,MYR,Malaysia,9.99,4,2.5
+7/1/20,MXN,Mexico,50,22,2.27
+7/1/20,MDL,Moldova,47,17,2.76
+7/1/20,EUR,Netherlands,4.09,1,4.09
+7/1/20,NZD,New Zealand,6.6,1,6.6
+7/1/20,NIO,Nicaragua,120,34,3.53
+7/1/20,NOK,Norway,52,9,5.78
+7/1/20,OMR,Oman,1.1,1,1.1
+7/1/20,PKR,Pakistan,550,166,3.31
+7/1/20,PEN,Peru,11.9,3,3.97
+7/1/20,PHP,Philippines,142,49,2.9
+7/1/20,PLN,Poland,11,3,3.67
+7/1/20,EUR,Portugal,3.45,1,3.45
+7/1/20,QAR,Qatar,13,3,4.33
+7/1/20,RON,Romania,9.9,4,2.48
+7/1/20,RUB,Russia,135,70,1.93
+7/1/20,SAR,Saudi Arabia,14,3,4.67
+7/1/20,SGD,Singapore,5.9,1,5.9
+7/1/20,EUR,Slovakia,3.6,1,3.6
+7/1/20,EUR,Slovenia,2.5,1,2.5
+7/1/20,ZAR,South Africa,31,16,1.94
+7/1/20,KRW,South Korea,4500,1200,3.75
+7/1/20,EUR,Spain,4.1,1,4.1
+7/1/20,LKR,Sri Lanka,680,185,3.68
+7/1/20,SEK,Sweden,52.6,9,5.84
+7/1/20,CHF,Switzerland,6.5,1,6.5
+7/1/20,TWD,Taiwan,72,29,2.48
+7/1/20,THB,Thailand,128,31,4.13
+7/1/20,TRY,Turkey,13.99,6,2.33
+7/1/20,UAH,Ukraine,59,27,2.19
+7/1/20,AED,United Arab Emirates,14.75,3,4.92
+7/1/20,USD,United States,4.82,1,4.82
+7/1/20,UYU,Uruguay,189,43,4.4
+7/1/20,VND,Vietnam,66000,23180,2.85
+1/1/21,ARS,Argentina,320,85,3.76
+1/1/21,AUD,Australia,6.48,1,6.48
+1/1/21,EUR,Austria,3.88,1,3.88
+1/1/21,AZN,Azerbaijan,3.95,1,3.95
+1/1/21,BHD,Bahrain,1.5,1,1.5
+1/1/21,EUR,Belgium,4.35,1,4.35
+1/1/21,BRL,Brazil,21.9,5,4.38
+1/1/21,GBP,Britain,3.29,1,3.29
+1/1/21,CAD,Canada,6.77,1,6.77
+1/1/21,CLP,Chile,2940,719,4.09
+1/1/21,CNY,China,22.4,6,3.73
+1/1/21,COP,Colombia,12950,3460,3.74
+1/1/21,CRC,Costa Rica,2350,613,3.83
+1/1/21,HRK,Croatia,23,6,3.83
+1/1/21,CZK,Czech Republic,89,21,4.24
+1/1/21,DKK,Denmark,30,6,5
+1/1/21,EGP,Egypt,42.5,15,2.83
+1/1/21,EUR,Estonia,3.2,1,3.2
+1/1/21,EUR,Euro area,4.25,1,4.25
+1/1/21,EUR,Finland,4.87,1,4.87
+1/1/21,EUR,France,4.2,1,4.2
+1/1/21,EUR,Germany,4.46,1,4.46
+1/1/21,EUR,Greece,3.3,1,3.3
+1/1/21,GTQ,Guatemala,25,7,3.57
+1/1/21,HNL,Honduras,87,24,3.62
+1/1/21,HKD,Hong Kong,20.5,7,2.93
+1/1/21,HUF,Hungary,900,297,3.03
+1/1/21,INR,India,190,73,2.6
+1/1/21,IDR,Indonesia,34000,14125,2.41
+1/1/21,EUR,Ireland,4.4,1,4.4
+1/1/21,ILS,Israel,17,3,5.67
+1/1/21,EUR,Italy,4.3,1,4.3
+1/1/21,JPY,Japan,390,104,3.75
+1/1/21,JOD,Jordan,2.3,1,2.3
+1/1/21,KWD,Kuwait,1.15,1,1.15
+1/1/21,EUR,Latvia,2.85,1,2.85
+1/1/21,LBP,Lebanon,15500,8750,1.77
+1/1/21,EUR,Lithuania,2.9,1,2.9
+1/1/21,MYR,Malaysia,9.99,4,2.5
+1/1/21,MXN,Mexico,54,20,2.7
+1/1/21,MDL,Moldova,50,17,2.94
+1/1/21,EUR,Netherlands,4.13,1,4.13
+1/1/21,NZD,New Zealand,6.8,1,6.8
+1/1/21,NIO,Nicaragua,124,34,3.65
+1/1/21,NOK,Norway,52,8,6.5
+1/1/21,OMR,Oman,1.1,1,1.1
+1/1/21,PKR,Pakistan,550,160,3.44
+1/1/21,PEN,Peru,11.9,3,3.97
+1/1/21,PHP,Philippines,142,48,2.96
+1/1/21,PLN,Poland,13.08,3,4.36
+1/1/21,EUR,Portugal,3.45,1,3.45
+1/1/21,QAR,Qatar,13,3,4.33
+1/1/21,RON,Romania,9.9,4,2.48
+1/1/21,RUB,Russia,135,74,1.82
+1/1/21,SAR,Saudi Arabia,14,3,4.67
+1/1/21,SGD,Singapore,5.9,1,5.9
+1/1/21,EUR,Slovakia,3.7,1,3.7
+1/1/21,EUR,Slovenia,2.5,1,2.5
+1/1/21,ZAR,South Africa,33.5,15,2.23
+1/1/21,KRW,South Korea,4500,1097,4.1
+1/1/21,EUR,Spain,4.33,1,4.33
+1/1/21,LKR,Sri Lanka,700,189,3.7
+1/1/21,SEK,Sweden,52.88,8,6.61
+1/1/21,CHF,Switzerland,6.5,1,6.5
+1/1/21,TWD,Taiwan,72,27,2.67
+1/1/21,THB,Thailand,128,30,4.27
+1/1/21,TRY,Turkey,14.99,7,2.14
+1/1/21,UAH,Ukraine,62,28,2.21
+1/1/21,AED,United Arab Emirates,14.75,3,4.92
+1/1/21,USD,United States,4.89,1,4.89
+1/1/21,UYU,Uruguay,204,42,4.86
+1/1/21,VND,Vietnam,66000,23064,2.86
+7/1/21,ARS,Argentina,380,96,3.96
+7/1/21,AUD,Australia,6.55,1,6.55
+7/1/21,EUR,Austria,3.92,1,3.92
+7/1/21,AZN,Azerbaijan,3.95,1,3.95
+7/1/21,BHD,Bahrain,1.5,1,1.5
+7/1/21,EUR,Belgium,4.45,1,4.45
+7/1/21,BRL,Brazil,22.9,5,4.58
+7/1/21,GBP,Britain,3.49,1,3.49
+7/1/21,CAD,Canada,6.77,1,6.77
+7/1/21,CLP,Chile,2990,759,3.94
+7/1/21,CNY,China,22.4,6,3.73
+7/1/21,COP,Colombia,12950,3842,3.37
+7/1/21,CRC,Costa Rica,2370,617,3.84
+7/1/21,HRK,Croatia,24,6,4
+7/1/21,CZK,Czech Republic,89,21,4.24
+7/1/21,DKK,Denmark,30,6,5
+7/1/21,EGP,Egypt,42.5,15,2.83
+7/1/21,EUR,Estonia,3.2,1,3.2
+7/1/21,EUR,Euro area,4.29,1,4.29
+7/1/21,EUR,Finland,4.89,1,4.89
+7/1/21,EUR,France,4.3,1,4.3
+7/1/21,EUR,Germany,4.45,1,4.45
+7/1/21,EUR,Greece,3.3,1,3.3
+7/1/21,GTQ,Guatemala,26,7,3.71
+7/1/21,HNL,Honduras,87,23,3.78
+7/1/21,HKD,Hong Kong,21,7,3
+7/1/21,HUF,Hungary,908,305,2.98
+7/1/21,INR,India,190,74,2.57
+7/1/21,IDR,Indonesia,34000,14517,2.34
+7/1/21,EUR,Ireland,4.5,1,4.5
+7/1/21,ILS,Israel,17,3,5.67
+7/1/21,EUR,Italy,4.3,1,4.3
+7/1/21,JPY,Japan,390,109,3.58
+7/1/21,JOD,Jordan,2.13,1,2.13
+7/1/21,KWD,Kuwait,1.25,1,1.25
+7/1/21,EUR,Latvia,2.85,1,2.85
+7/1/21,LBP,Lebanon,37000,22000,1.68
+7/1/21,EUR,Lithuania,2.9,1,2.9
+7/1/21,MYR,Malaysia,9.99,4,2.5
+7/1/21,MXN,Mexico,64,20,3.2
+7/1/21,MDL,Moldova,52,17,3.06
+7/1/21,EUR,Netherlands,4.22,1,4.22
+7/1/21,NZD,New Zealand,6.9,1,6.9
+7/1/21,NIO,Nicaragua,128,35,3.66
+7/1/21,NOK,Norway,57,9,6.33
+7/1/21,OMR,Oman,1.15,1,1.15
+7/1/21,PKR,Pakistan,580,161,3.6
+7/1/21,PEN,Peru,12.9,3,4.3
+7/1/21,PHP,Philippines,142,50,2.84
+7/1/21,PLN,Poland,13.43,3,4.48
+7/1/21,EUR,Portugal,3.45,1,3.45
+7/1/21,QAR,Qatar,13,3,4.33
+7/1/21,RON,Romania,10.6,4,2.65
+7/1/21,RUB,Russia,135,74,1.82
+7/1/21,SAR,Saudi Arabia,14,3,4.67
+7/1/21,SGD,Singapore,5.9,1,5.9
+7/1/21,EUR,Slovakia,3.7,1,3.7
+7/1/21,EUR,Slovenia,2.6,1,2.6
+7/1/21,ZAR,South Africa,33.5,14,2.39
+7/1/21,KRW,South Korea,4600,1150,4
+7/1/21,EUR,Spain,4.4,1,4.4
+7/1/21,LKR,Sri Lanka,700,199,3.52
+7/1/21,SEK,Sweden,54,8,6.75
+7/1/21,CHF,Switzerland,6.5,1,6.5
+7/1/21,TWD,Taiwan,72,28,2.57
+7/1/21,THB,Thailand,128,32,4
+7/1/21,TRY,Turkey,19.99,8,2.5
+7/1/21,UAH,Ukraine,65,27,2.41
+7/1/21,AED,United Arab Emirates,14.75,3,4.92
+7/1/21,USD,United States,4.93,1,4.93
+7/1/21,UYU,Uruguay,225,44,5.11
+7/1/21,VES,Venezuela,16020000,3613989,4.43
+7/1/21,VND,Vietnam,69000,23028,3
+1/1/22,ARS,Argentina,450,105,4.29
+1/1/22,AUD,Australia,6.4,1,6.4
+1/1/22,EUR,Austria,3.8,1,3.8
+1/1/22,AZN,Azerbaijan,4.5,1,4.5
+1/1/22,BHD,Bahrain,1.5,1,1.5
+1/1/22,EUR,Belgium,4.55,1,4.55
+1/1/22,BRL,Brazil,22.9,5,4.58
+1/1/22,GBP,Britain,3.59,1,3.59
+1/1/22,CAD,Canada,6.77,1,6.77
+1/1/22,CLP,Chile,3100,798,3.88
+1/1/22,CNY,China,24.4,6,4.07
+1/1/22,COP,Colombia,12950,3941,3.29
+1/1/22,CRC,Costa Rica,2650,642,4.13
+1/1/22,HRK,Croatia,23.67,6,3.94
+1/1/22,CZK,Czech Republic,89,21,4.24
+1/1/22,DKK,Denmark,32,6,5.33
+1/1/22,EGP,Egypt,42.5,15,2.83
+1/1/22,EUR,Estonia,3.4,1,3.4
+1/1/22,EUR,Euro area,4.42,1,4.42
+1/1/22,EUR,Finland,4.95,1,4.95
+1/1/22,EUR,France,4.35,1,4.35
+1/1/22,EUR,Germany,4.46,1,4.46
+1/1/22,EUR,Greece,3.4,1,3.4
+1/1/22,GTQ,Guatemala,26,7,3.71
+1/1/22,HNL,Honduras,89,24,3.71
+1/1/22,HKD,Hong Kong,22,7,3.14
+1/1/22,HUF,Hungary,982,317,3.1
+1/1/22,INR,India,190,74,2.57
+1/1/22,IDR,Indonesia,34000,14382,2.36
+1/1/22,EUR,Ireland,4.6,1,4.6
+1/1/22,ILS,Israel,17,3,5.67
+1/1/22,EUR,Italy,4.8,1,4.8
+1/1/22,JPY,Japan,390,115,3.39
+1/1/22,JOD,Jordan,2.12,1,2.12
+1/1/22,KWD,Kuwait,1.25,1,1.25
+1/1/22,EUR,Latvia,2.85,1,2.85
+1/1/22,LBP,Lebanon,70000,21500,3.26
+1/1/22,EUR,Lithuania,2.9,1,2.9
+1/1/22,MYR,Malaysia,9.99,4,2.5
+1/1/22,MXN,Mexico,69,20,3.45
+1/1/22,MDL,Moldova,52,18,2.89
+1/1/22,EUR,Netherlands,4.4,1,4.4
+1/1/22,NZD,New Zealand,7,1,7
+1/1/22,NIO,Nicaragua,134,35,3.83
+1/1/22,NOK,Norway,57,8,7.12
+1/1/22,OMR,Oman,1.15,1,1.15
+1/1/22,PKR,Pakistan,590,176,3.35
+1/1/22,PEN,Peru,12.9,3,4.3
+1/1/22,PHP,Philippines,142,50,2.84
+1/1/22,PLN,Poland,14.08,4,3.52
+1/1/22,EUR,Portugal,3.45,1,3.45
+1/1/22,QAR,Qatar,13,3,4.33
+1/1/22,RON,Romania,10.6,4,2.65
+1/1/22,RUB,Russia,135,77,1.75
+1/1/22,SAR,Saudi Arabia,15,3,5
+1/1/22,SGD,Singapore,5.9,1,5.9
+1/1/22,EUR,Slovakia,3.8,1,3.8
+1/1/22,EUR,Slovenia,2.8,1,2.8
+1/1/22,ZAR,South Africa,39.9,15,2.66
+1/1/22,KRW,South Korea,4600,1205,3.82
+1/1/22,EUR,Spain,4.58,1,4.58
+1/1/22,LKR,Sri Lanka,840,202,4.16
+1/1/22,SEK,Sweden,54,9,6
+1/1/22,CHF,Switzerland,6.5,1,6.5
+1/1/22,TWD,Taiwan,75,27,2.78
+1/1/22,THB,Thailand,128,33,3.88
+1/1/22,TRY,Turkey,24.99,13,1.92
+1/1/22,UAH,Ukraine,69,28,2.46
+1/1/22,AED,United Arab Emirates,17,3,5.67
+1/1/22,USD,United States,5.04,1,5.04
+1/1/22,UYU,Uruguay,239,44,5.43
+1/1/22,VES,Venezuela,23,4,5.75
+1/1/22,VND,Vietnam,69000,22650,3.05
+7/1/22,ARS,Argentina,590,129,4.57
+7/1/22,AUD,Australia,6.7,1,6.7
+7/1/22,EUR,Austria,4.35,1,4.35
+7/1/22,AZN,Azerbaijan,4.7,1,4.7
+7/1/22,BHD,Bahrain,1.6,1,1.6
+7/1/22,EUR,Belgium,4.6,1,4.6
+7/1/22,BRL,Brazil,22.9,5,4.58
+7/1/22,GBP,Britain,3.69,1,3.69
+7/1/22,CAD,Canada,6.77,1,6.77
+7/1/22,CLP,Chile,3400,928,3.66
+7/1/22,CNY,China,24,6,4
+7/1/22,COP,Colombia,14950,4295,3.48
+7/1/22,CRC,Costa Rica,2650,678,3.91
+7/1/22,HRK,Croatia,27,7,3.86
+7/1/22,CZK,Czech Republic,95,23,4.13
+7/1/22,EGP,Egypt,46,18,2.56
+7/1/22,EUR,Estonia,3.4,1,3.4
+7/1/22,EUR,Euro area,4.65,1,4.65
+7/1/22,EUR,Finland,5.25,1,5.25
+7/1/22,EUR,France,4.7,1,4.7
+7/1/22,EUR,Germany,4.58,1,4.58
+7/1/22,EUR,Greece,4,1,4
+7/1/22,GTQ,Guatemala,26,7,3.71
+7/1/22,HNL,Honduras,89,24,3.71
+7/1/22,HKD,Hong Kong,21,7,3
+7/1/22,HUF,Hungary,1030,389,2.65
+7/1/22,INR,India,191,79,2.42
+7/1/22,IDR,Indonesia,35000,14977,2.34
+7/1/22,EUR,Ireland,5,1,5
+7/1/22,ILS,Israel,17,3,5.67
+7/1/22,EUR,Italy,5.1,1,5.1
+7/1/22,JPY,Japan,390,137,2.85
+7/1/22,JOD,Jordan,2.3,1,2.3
+7/1/22,KWD,Kuwait,1.3,1,1.3
+7/1/22,EUR,Latvia,3,1,3
+7/1/22,LBP,Lebanon,130000,25600,5.08
+7/1/22,EUR,Lithuania,3.05,1,3.05
+7/1/22,MYR,Malaysia,10.9,4,2.72
+7/1/22,MXN,Mexico,70,20,3.5
+7/1/22,MDL,Moldova,60,19,3.16
+7/1/22,EUR,Netherlands,4.5,1,4.5
+7/1/22,NZD,New Zealand,7.1,1,7.1
+7/1/22,NIO,Nicaragua,139,35,3.97
+7/1/22,NOK,Norway,62,9,6.89
+7/1/22,OMR,Oman,1.42,1,1.42
+7/1/22,PKR,Pakistan,700,221,3.17
+7/1/22,PEN,Peru,13.9,3,4.63
+7/1/22,PHP,Philippines,155,56,2.77
+7/1/22,PLN,Poland,16.68,4,4.17
+7/1/22,EUR,Portugal,4,1,4
+7/1/22,QAR,Qatar,13,3,4.33
+7/1/22,RON,Romania,11,4,2.75
+7/1/22,SAR,Saudi Arabia,17,3,5.67
+7/1/22,SGD,Singapore,5.9,1,5.9
+7/1/22,EUR,Slovakia,3.9,1,3.9
+7/1/22,EUR,Slovenia,3.2,1,3.2
+7/1/22,ZAR,South Africa,39.9,17,2.35
+7/1/22,KRW,South Korea,4600,1313,3.5
+7/1/22,EUR,Spain,4.58,1,4.58
+7/1/22,LKR,Sri Lanka,1340,360,3.72
+7/1/22,SEK,Sweden,57,10,5.7
+7/1/22,CHF,Switzerland,6.5,1,6.5
+7/1/22,TWD,Taiwan,75,29,2.59
+7/1/22,THB,Thailand,128,36,3.56
+7/1/22,TRY,Turkey,47,17,2.76
+7/1/22,AED,United Arab Emirates,18,3,6
+7/1/22,USD,United States,5.15,1,5.15
+7/1/22,UYU,Uruguay,255,41,6.22
+7/1/22,VES,Venezuela,10,5,2
+7/1/22,VND,Vietnam,69000,23417,2.95
