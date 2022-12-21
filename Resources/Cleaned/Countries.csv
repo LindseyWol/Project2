@@ -1,0 +1,30 @@
+country,country_code,currency_code
+Australia,AUS,AUD
+Belgium,BEL,EUR
+Brazil,BRA,BRL
+Canada,CAN,CAD
+Chile,CHL,CLP
+Colombia,COL,COP
+Costa Rica,CRI,CRC
+Czech Republic,CZE,CZK
+Estonia,EST,EUR
+France,FRA,EUR
+Germany,DEU,EUR
+Greece,GRC,EUR
+Hungary,HUN,HUF
+Ireland,IRL,EUR
+Israel,ISR,ILS
+Japan,JPN,JPY
+Latvia,LVA,EUR
+Lithuania,LTU,EUR
+Mexico,MEX,MXN
+Netherlands,NLD,EUR
+New Zealand,NZL,NZD
+Poland,POL,PLN
+Portugal,PRT,EUR
+Russia,RUS,RUB
+Slovenia,SVN,EUR
+South Korea,KOR,KRW
+Spain,ESP,EUR
+Turkey,TUR,TRY
+United States,USA,USD
