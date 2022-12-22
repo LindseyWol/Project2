@@ -43,20 +43,20 @@ In the cleanup of data we anticipate that we will need to drop a number of colum
     *  Renamed columns, dropped unnecessary columns
     *  Change dates to year only for consistency with other data
     *  If a country had more than one price entry for a year we used mean with groupby
-    *  Dropped country rows not in countries_df
+    *  Dropped country rows not in countries_df through merge 
   
 * AvgIncome
     * Renamed columns, dropped unnecessary columns
     * Rounded incomes
-    * Dropped country rows not in countries_df
+    * Dropped country rows not in countries_df through merge
  
 * MinWage
     * Renamed columns, dropped unnecessary columns
-    * Dropped country rows not in countries_df
+    * Dropped country rows not in countries_df through merge
 
 * MeatConsumption
     * Renamed columsn, dropped unnecessary columns
-    * Dropped country rows not in countries_df
+    * Dropped country rows not in countries_df through merge
 
 #### 4. Write dataframes to new CSVs for future database load
 * Created a new folder for these new CSVs
@@ -70,7 +70,11 @@ We created an ERD using QuickDBD
 ![image](https://user-images.githubusercontent.com/113874979/209034957-f88419bd-7fa9-46c2-b9d5-26465668389b.png)
 
 ## Potential Queries
-With our data loaded into SQL, we are now able to perform queries.
+With our data loaded into SQL, we are now able to perform queries, such as the following:
+* What is the change over time year to year for minimum wage vs Big Mac price?
+* What is the relationship between average income and Big Mac price?
+* Does increased beef consumption lead to decreased Big Mac price?
+* Does increased beef consumption correlate with increased average income? with minimum wage?
 
 ## Limitations
 * Time and experience were major constraints with only a week to finish our project. In the future, with more time and experience, incorporating web scraping or APIs to contribute additional data, especially adding more current data, would be ideal. 
