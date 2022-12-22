@@ -9,11 +9,11 @@ We will use a relational database, so after extracting and transforming in pytho
 In the cleanup of data we anticipate that we will need to drop a number of columns not relevant to the scope of this project, and we will only be focusing on countries represented on the BigMac dataset. We will need to do some manipulation to country names to ensure they match from dataset to dataset, and we will need a list of country names and corresponding codes since some datasets we are using are identified by country code. We will be using all prices and pay converted to US dollars and pay will be all converted to hourly wages. However, we will include a currency exchange table by year and currency for represented countries so the USD price, wage, and income data can be converted for reporting elsewhere. Additionally we will consider average meat consumption per year for each country as a measure of demand for beef in a particular country to see any relationships there. 
 
 ## Sources of Data
-* Minimum wage data from OECD.stat
-* Big Mac Prices from Kaggle.com.
-* Income by country
-* Meat consumption by country from OECD.stat
-* Currency list and abbreviations
+* Minimum wage data from https://stats.oecd.org/index.aspx?DataSetCode=RMW
+* Big Mac Prices from https://www.kaggle.com/datasets/vittoriogiatti/bigmacprice
+* Income by country https://data.worldbank.org/indicator/NY.ADJ.NNTY.PC.CD
+* Meat consumption by country from https://data.oecd.org/agroutput/meat-consumption.htm
+* Currency list and abbreviations https://www.iso.org/iso-4217-currency-codes.html
 
 ## Contributors
 * Lindsey Wolterstorff and Will Dickerson
