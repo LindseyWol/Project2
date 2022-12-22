@@ -50,12 +50,12 @@ In the cleanup of data we anticipate that we will need to drop a number of colum
     * Renamed columns, dropped unnecessary columns
     * Rounded incomes
     * Dropped country rows not in countries_df through merge
-![Screenshot (17)](https://user-images.githubusercontent.com/113874979/209047811-15f89149-7de8-41bd-af82-f91e2674d6cb.png)
+![Screenshot (18)](https://user-images.githubusercontent.com/113874979/209047903-7236d67a-f355-489d-ac20-434fded05d73.png)
  
 * MinWage
     * Renamed columns, dropped unnecessary columns
     * Dropped country rows not in countries_df through merge
-![Screenshot (18)](https://user-images.githubusercontent.com/113874979/209047903-7236d67a-f355-489d-ac20-434fded05d73.png)
+![Screenshot (17)](https://user-images.githubusercontent.com/113874979/209047811-15f89149-7de8-41bd-af82-f91e2674d6cb.png)
 
 * MeatConsumption
     * Renamed columsn, dropped unnecessary columns
