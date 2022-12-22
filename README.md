@@ -33,17 +33,17 @@ In the cleanup of data we anticipate that we will need to drop a number of colum
 2. Loaded our CSVs into Python and previewed data to get an idea of what needs to be cleaned, transformed, joined, and deleted
 
 ### Step 2: Transform
-1. Fix country names for consistency
+#### 1. Fix country names for consistency
 * We noticed right away we would need to fix spellings of some countries so they could be matched across datasets (ex. Korea vs South Korea)
 * We realized too late how much easier this all would have been converting everything to country codes first, that was a big learning 
 
-2. Create new tables from existing data
+#### 2. Create new tables from existing data
 * We created a countries table with corresponding country codes and currency codes
 * We created a currency table with currency codes and names
 * We created a currency exchange table with exchange rates for currencies by year
     * All values in our current tables are in US Dollars, but we wanted to add a currency exchange table for future use if conversions were needed for analysis  
 
-3. Clean-up data in CSVs
+#### 3. Clean-up data in CSVs
 * BigMac
     *  Renamed columns, dropped unnecessary columns
     *  Change dates to year only for consistency with other data
@@ -63,7 +63,7 @@ In the cleanup of data we anticipate that we will need to drop a number of colum
     * Renamed columsn, dropped unnecessary columns
     * Dropped country rows not in countries_df
 
-4. Write dataframes to new CSVs for future database load
+#### 4. Write dataframes to new CSVs for future database load
 * Created a new folder for these new CSVs
 * In the end we had 7 dataframes to upload to SQL
 
