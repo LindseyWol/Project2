@@ -43,26 +43,34 @@ In the cleanup of data we anticipate that we will need to drop a number of colum
     *  Renamed columns, dropped unnecessary columns
     *  Change dates to year only for consistency with other data
     *  If a country had more than one price entry for a year we used mean with groupby
-    *  Dropped country rows not in countries_df through merge 
+    *  Dropped country rows not in countries_df through merge
+![Screenshot (15)](https://user-images.githubusercontent.com/113874979/209047617-d1084855-b335-4bf8-ad38-266cd29a3439.png) 
   
 * AvgIncome
     * Renamed columns, dropped unnecessary columns
     * Rounded incomes
     * Dropped country rows not in countries_df through merge
+![Screenshot (16)](https://user-images.githubusercontent.com/113874979/209047721-adddcc06-9f52-4ccd-8287-802f295b2296.png)
+
  
 * MinWage
     * Renamed columns, dropped unnecessary columns
     * Dropped country rows not in countries_df through merge
+![Screenshot (17)](https://user-images.githubusercontent.com/113874979/209047811-15f89149-7de8-41bd-af82-f91e2674d6cb.png)
+
 
 * MeatConsumption
     * Renamed columsn, dropped unnecessary columns
     * Dropped country rows not in countries_df through merge
+![Screenshot (18)](https://user-images.githubusercontent.com/113874979/209047903-7236d67a-f355-489d-ac20-434fded05d73.png)
+ 
 
 #### 4. Write dataframes to new CSVs for future database load
 * Created a new folder for these new CSVs
 * In the end we had 7 dataframes to upload to SQL
-Preview of a loaded table and view of our 7 tables in the sidebar
+
 ![Screenshot (7)](https://user-images.githubusercontent.com/113874979/209047088-68487482-52f5-42e7-bed5-becb1cb0ebe7.png)
+Preview of a loaded table and view of our 7 tables in the sidebar
 
 
 ### Step 3: Load
