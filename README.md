@@ -15,11 +15,6 @@ In the cleanup of data we anticipate that we will need to drop a number of colum
 * Meat consumption by country from OECD.stat
 * Currency list and abbreviations
 
-## Limitations
-* Time and experience were major constraints with only a week to finish our project. In the future, with more time and experience, incorporating web scraping or APIs to contribute additional data, especially adding more current data, would be ideal. 
-* Countries used were limited first by what was included in our BigMac dataset, then further dwindled down as we started adding multiple datasets. We thought starting out with 75 countries and 2,000+ lines of data would be sufficient, but we lost more in the cleanup than we had anticipated.
-* Our data points are yearly, but the ability to break these up further to quarterly or even monthly could give more accurate numbers and a different view.
-
 ## Contributors
 * Lindsey Wolterstorff and Will Dickerson
 
@@ -76,4 +71,13 @@ We created an ERD using QuickDBD
 
 ## Potential Queries
 With our data loaded into SQL, we are now able to perform queries.
+
+## Limitations
+* Time and experience were major constraints with only a week to finish our project. In the future, with more time and experience, incorporating web scraping or APIs to contribute additional data, especially adding more current data, would be ideal. 
+* Countries used were limited first by what was included in our BigMac dataset, then further dwindled down as we started adding multiple datasets. We thought starting out with 75 countries and 2,000+ lines of data would be sufficient, but we lost more in the cleanup than we had anticipated.
+* Our data points are yearly, but the ability to break these up further to quarterly or even monthly could give more accurate numbers and a different view.
+
+## Future Considerations
+* Looking at our database now, there are already things we know we would do differently. We should have had country_code as the PK and not the country name. It is not good practice to have such a large VarChar as a key, now we know. We also received feedback very late in the game that we probably should have combined our 4 individual tables (BigMac, AvgIncome, MinWage, MeatConsumption) into a single table. As stated in our proposal, this database really is a starting off point, we can only improve and refine from here with added experience. 
+
 
