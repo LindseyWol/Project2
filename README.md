@@ -33,27 +33,47 @@ In the cleanup of data we anticipate that we will need to drop a number of colum
 2. Loaded our CSVs into Python and previewed data to get an idea of what needs to be cleaned, transformed, joined, and deleted
 
 ### Step 2: Transform
-1. Create Junction Tables
-* We noticed 
+1. Fix country names for consistency
+* We noticed right away we would need to fix spellings of some countries so they could be matched across datasets (ex. Korea vs South Korea)
+* We realized too late how much easier this all would have been converting everything to country codes first, that was a big learning 
 
-2. Clean-up data in CSVs
+2. Create new tables from existing data
+* We created a countries table with corresponding country codes and currency codes
+* We created a currency table with currency codes and names
+* We created a currency exchange table with exchange rates for currencies by year
+    * All values in our current tables are in US Dollars, but we wanted to add a currency exchange table for future use if conversions were needed for analysis  
+
+3. Clean-up data in CSVs
 * BigMac
+    *  Renamed columns, dropped unnecessary columns
+    *  Change dates to year only for consistency with other data
+    *  If a country had more than one price entry for a year we used mean with groupby
+    *  Dropped country rows not in countries_df
+  
 * AvgIncome
+    * Renamed columns, dropped unnecessary columns
+    * Rounded incomes
+    * Dropped country rows not in countries_df
+ 
 * MinWage
-* MeatConsumption
+    * Renamed columns, dropped unnecessary columns
+    * Dropped country rows not in countries_df
 
-3. Write dataframes to new CSVs for future database load
-* In the end we had 
+* MeatConsumption
+    * Renamed columsn, dropped unnecessary columns
+    * Dropped country rows not in countries_df
+
+4. Write dataframes to new CSVs for future database load
+* Created a new folder for these new CSVs
+* In the end we had 7 dataframes to upload to SQL
 
 ### Step 3: Load
-After extracting and transforming we were left with 7 dataframes to upload as tables to our SQL database.
+After extracting and transforming we were left with 7 dataframes to upload as tables to our SQL database. At the end, we realized it might make sense to have combined our BigMac, AvgIncome, MeatConsumption, and MinWage into one table. We could do that in the future.
 
 ## Schema
 We created an ERD using QuickDBD
 ![image](https://user-images.githubusercontent.com/113874979/209034957-f88419bd-7fa9-46c2-b9d5-26465668389b.png)
 
-
 ## Potential Queries
-
-## Future Considerations
+With our data loaded into SQL, we are now able to perform queries.
 
