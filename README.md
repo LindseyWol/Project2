@@ -50,20 +50,18 @@ In the cleanup of data we anticipate that we will need to drop a number of colum
     * Renamed columns, dropped unnecessary columns
     * Rounded incomes
     * Dropped country rows not in countries_df through merge
-![Screenshot (16)](https://user-images.githubusercontent.com/113874979/209047721-adddcc06-9f52-4ccd-8287-802f295b2296.png)
-
+![Screenshot (17)](https://user-images.githubusercontent.com/113874979/209047811-15f89149-7de8-41bd-af82-f91e2674d6cb.png)
  
 * MinWage
     * Renamed columns, dropped unnecessary columns
     * Dropped country rows not in countries_df through merge
-![Screenshot (17)](https://user-images.githubusercontent.com/113874979/209047811-15f89149-7de8-41bd-af82-f91e2674d6cb.png)
-
+![Screenshot (18)](https://user-images.githubusercontent.com/113874979/209047903-7236d67a-f355-489d-ac20-434fded05d73.png)
 
 * MeatConsumption
     * Renamed columsn, dropped unnecessary columns
     * Dropped country rows not in countries_df through merge
-![Screenshot (18)](https://user-images.githubusercontent.com/113874979/209047903-7236d67a-f355-489d-ac20-434fded05d73.png)
- 
+![Screenshot (16)](https://user-images.githubusercontent.com/113874979/209047721-adddcc06-9f52-4ccd-8287-802f295b2296.png)
+
 
 #### 4. Write dataframes to new CSVs for future database load
 * Created a new folder for these new CSVs
