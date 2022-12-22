@@ -61,6 +61,9 @@ In the cleanup of data we anticipate that we will need to drop a number of colum
 #### 4. Write dataframes to new CSVs for future database load
 * Created a new folder for these new CSVs
 * In the end we had 7 dataframes to upload to SQL
+Preview of a loaded table and view of our 7 tables in the sidebar
+![Screenshot (7)](https://user-images.githubusercontent.com/113874979/209047088-68487482-52f5-42e7-bed5-becb1cb0ebe7.png)
+
 
 ### Step 3: Load
 After extracting and transforming we were left with 7 dataframes to upload as tables to our SQL database. At the end, we realized it might make sense to have combined our BigMac, AvgIncome, MeatConsumption, and MinWage into one table. We could do that in the future.
